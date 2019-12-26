@@ -1,8 +1,8 @@
-# ai_all_resources
+# An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning
 
-Knowledge Not SHared is wasted - Clan Jacobs
+## _Knowledge Not Shared is wasted - Clan Jacobs_
 
-# Ref
+# Reference
 * https://end-to-end-machine-learning.teachable.com/courses/667372/lectures/11900568
 * https://brohrer.github.io/blog.html
 * [ML Fundamentals by StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
@@ -13,14 +13,31 @@ Knowledge Not SHared is wasted - Clan Jacobs
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * https://www.machinelearningisfun.com/
 * https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
-* https://iamtrask.github.io/
 * https://github.com/iamtrask
 * https://medium.com/greyatom
 * https://greyatom.com/glabs
+* [Sebastian Ruder](https://ruder.io/optimizing-gradient-descent/index.html)
+* [Teachable Machine](https://teachablemachine.withgoogle.com/)
+    * Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+* [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
+* [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
+* [](https://distill.pub/)
+
+# People to Follow
+
+* [Andrej Karpathy blog](http://karpathy.github.io/)
+* [Brandon Roher](https://brohrer.github.io/blog.html)
+* [Andrew Trask](https://iamtrask.github.io/)
+
+
+# Community
+
+* [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
 # Code
 
 * [codebasics/py](https://github.com/codebasics/py)
+* [Google Codelabs](https://codelabs.developers.google.com/)
 
 # CheetSheets
 
@@ -30,20 +47,31 @@ Knowledge Not SHared is wasted - Clan Jacobs
 
 * [How to Build a Meaningful Career in Data Science](https://www.datacamp.com/community/blog/how-to-build-a-meaningful-career-in-data-science)
 
+# Intro to ML
+
+* [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
+
 # ML Terms Fundamentals
 
 * [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM)
 * [StatQuest: P Values, clearly explained](https://www.youtube.com/watch?v=5Z9OIYA8He8)
 * [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
-* [Confusion Matrix]()
+* [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
 * [Sensitivity and Specivicity]()
-* [Bias and Variance]()
+* [Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 * [Cost Function]()
 * [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
+* [Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
+* [Covariance and Correlation Part 1: Covariance](https://www.youtube.com/watch?v=qtaqvPAeEJY)
+* []()
+* [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY)
+* [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU)
 
 # Math 
 
 * [MatMul](http://matrixmultiplication.xyz/)
+* [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)
+* [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)
 
 
 # Blogs
@@ -72,7 +100,7 @@ Knowledge Not SHared is wasted - Clan Jacobs
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 
-# Simple ML Playlist from CodeBAsics
+# Simple ML Playlist from CodeBasics
 
 * [Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 
@@ -89,10 +117,19 @@ Knowledge Not SHared is wasted - Clan Jacobs
 
 # Decission Tree
 
+* [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+* [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA)
 * https://www.geeksforgeeks.org/decision-tree-introduction-example/
 * https://www.geeksforgeeks.org/decision-tree/
 * https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/
 * https://www.geeksforgeeks.org/ml-logistic-regression-v-s-decision-tree-classification/
+
+# Random Forest
+
+* [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+* [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
+* []()
+* []()
 
 # SVM
 
@@ -109,6 +146,7 @@ Knowledge Not SHared is wasted - Clan Jacobs
 
 * [A friendly introduction to Bayes Theorem and Hidden Markov Models](https://www.youtube.com/watch?v=kqSzLo9fenk)
 * [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)
+* [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
 
 # K-Means
 
@@ -116,20 +154,32 @@ Knowledge Not SHared is wasted - Clan Jacobs
 * [Machine Learning Tutorial Python - 13: K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)
 * [K Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Edureka](https://www.youtube.com/watch?v=1XqG0kaJVHY)
 
-# K-NN
+# K-Nearest Neighbors
 
 * [KNN from Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+* [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
-# PCS
+# Principal Component Analysis (PCA)
 
 * [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+* [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
 * [Principal Component Analysis (PCA) by Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
-# Boosting MAchine LEarning
+# Boosting Machine Learning
 
 * [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)
+* [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)
+* [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+* []()
+* []()
+* []()
 
-# Gradient DEscent from Scratch
+# probabilistic graphical models
+
+# Gradient Descent from Scratch
+
+* [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+* [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
 * https://www.youtube.com/watch?v=L-Lsfu4ab74&vl=en
 * https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931
 * https://github.com/chasinginfinity/ml-from-scratch
@@ -137,6 +187,15 @@ Knowledge Not SHared is wasted - Clan Jacobs
 * https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/
 * https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression
 * https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning
+* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)
+* [Neural Network Backpropagation Basics For Dummies](https://www.youtube.com/watch?v=8d6jf7s6_Qs)
+* [How to Implement Linear Regression From Scratch in Python](https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/)
+
+## How to Handle Local Minima
+
+* https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum
+* https://datascience.stackexchange.com/questions/18802/does-mlp-always-find-local-minimum
+* https://www.coursera.org/learn/deep-neural-network/lecture/RFANA/the-problem-of-local-optima
 
 # Sci-Kit
 
@@ -145,34 +204,57 @@ Knowledge Not SHared is wasted - Clan Jacobs
 
 # Deep Learning
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
+* [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
 # NN
 
+* [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
+    * A simple explanation of how they work and how to implement one from scratch in Python.
 * [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 * [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk)
+* [Neural Networks Demystified by Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+    * [Supporting code for short YouTube series Neural Networks Demystified.](https://github.com/stephencwelch/Neural-Networks-Demystified)
 
 # CNN
 
-* [ CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+* [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+* [Convolutional Neural Networks for Beginners](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
+* [Tensorflow Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
+* [Convolutional Networks Book](http://www.deeplearningbook.org/contents/convnets.html)
+
+# Computer Vision
+
+* [YOLO](https://pjreddie.com/darknet/yolo/)
 
 # RNN
 
+* [An Introduction to Recurrent Neural Networks for Beginners](https://victorzhou.com/blog/intro-to-rnns/)
+    * A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python.
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-* []
 
 # BERT
 
 * [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+* [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
+* [BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc](https://github.com/dmis-lab/biobert)
 
 # GANs
 
 * [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
 * [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+
+# RL
+
+* [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+* [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)\
+* [🖥️ WRITING MY FIRST MACHINE LEARNING GAME! (1/4)](https://www.youtube.com/watch?v=ZX2Hyu5WoFg)
 
 # PyTorch
 
@@ -191,17 +273,25 @@ Knowledge Not SHared is wasted - Clan Jacobs
 * [Machine Learning in JavaScript (TensorFlow Dev Summit 2018)](https://www.youtube.com/watch?v=YB-kfeNIPCE)
 * [TensorFlow.js Quick Start](https://www.youtube.com/watch?v=Y_XM3Bu-4yc)
 * [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)
+* [Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?](https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/)
+* [How To Run TensorFlow Lite on Raspberry Pi for Object Detection](https://www.youtube.com/watch?v=aimSGOAUI8Y)
+* [How computers learn to recognize objects instantly | Joseph Redmon](https://www.youtube.com/watch?v=Cgxsv1riJhI)
 
 # Transfer Learning
 
 * [Transfer Learning with Keras and Deep Learning](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
+* [TensorFlow Core Tutorials](https://www.tensorflow.org/tutorials)
 
 # Deploy Models
 
 * [Machine Learning in 5 Minutes: How to deploy a ML model (SurveyMonkey Engineer explains)](https://www.youtube.com/watch?v=XsD2u7hAwI8)
+* [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
 
 # Courses
 
+* [Machine Learning by Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
 * [Datacamp : Data Engineer with Python](https://www.datacamp.com/tracks/data-engineer-with-python)
-* https://classroom.udacity.com/courses/ud120
+* [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
+    * Topics Covered Naive Bayes, SVM, Decision Trees, Regressions, Outliers, Clustering, Feature Scaling, Text Learning, Feature Selection, PCA, Validation, Evaluation Metrics
+* [NVIDIA DEEP LEARNING INSTITUTE](https://www.nvidia.com/en-us/deep-learning-ai/education/)
