@@ -2,46 +2,19 @@
 
 ## _Knowledge Not Shared is wasted - Clan Jacobs_
 
-# Reference
-* https://end-to-end-machine-learning.teachable.com/courses/667372/lectures/11900568
-* https://brohrer.github.io/blog.html
-* [ML Fundamentals by StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
-* [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-* [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python - Daniel Bourke](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
-* [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
-* [Data School](https://www.dataschool.io/)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-* https://www.machinelearningisfun.com/
-* https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
-* https://github.com/iamtrask
-* https://medium.com/greyatom
-* https://greyatom.com/glabs
-* [Sebastian Ruder](https://ruder.io/optimizing-gradient-descent/index.html)
-* [Teachable Machine](https://teachablemachine.withgoogle.com/)
-    * Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
-* [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
-* [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
-* [](https://distill.pub/)
-
-# People to Follow
+## _This compilation is inspired by the below people_
 
 * [Andrej Karpathy blog](http://karpathy.github.io/)
 * [Brandon Roher](https://brohrer.github.io/blog.html)
 * [Andrew Trask](https://iamtrask.github.io/)
-
+* [Jay Alammar](https://jalammar.github.io/)
+* [Sebastian Ruder](https://ruder.io/)
+* [OpenAI Team](https://distill.pub/)
+* [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
 
 # Community
 
 * [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
-
-# Code
-
-* [codebasics/py](https://github.com/codebasics/py)
-* [Google Codelabs](https://codelabs.developers.google.com/)
-
-# CheetSheets
-
-* [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 # Why Data Science?
 
@@ -50,6 +23,14 @@
 # Intro to ML
 
 * [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
+
+# MOOCs
+
+* [Machine Learning by Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning) _IMDB 10/10 LOL :P_
+* [Datacamp : Data Engineer with Python](https://www.datacamp.com/tracks/data-engineer-with-python)
+* [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120) _Topics Covered Naive Bayes, SVM, Decision Trees, Regressions, Outliers, Clustering, Feature Scaling, Text Learning, Feature Selection, PCA, Validation, Evaluation Metrics_
+* [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) _The Best Course for Learning TensorFlow_
+* [NVIDIA DEEP LEARNING INSTITUTE](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
 # ML Terms Fundamentals
 
@@ -63,20 +44,14 @@
 * [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
 * [Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
 * [Covariance and Correlation Part 1: Covariance](https://www.youtube.com/watch?v=qtaqvPAeEJY)
-* []()
 * [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY)
 * [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU)
 
 # Math 
 
-* [MatMul](http://matrixmultiplication.xyz/)
+* [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _In this post I have compiled great e-resources for learning Mathematics for Machine Learning._
 * [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)
 * [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)
-
-
-# Blogs
-
-[Jay Alammar : Visualizing machine learning one concept at a time](https://jalammar.github.io/)
 
 # Numpy
 
@@ -87,8 +62,7 @@
 * [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 * [Numpy Tutorial – Introduction to ndarray](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
 * [Sci-Py Lectures : NumPy: creating and manipulating numerical data](https://scipy-lectures.org/intro/numpy/index.html)
-* [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-    * Learn the basics of the NumPy library in this tutorial for beginners. It provides background information on how NumPy works and how it compares to Python's Built-in lists. This video goes through how to write code with NumPy. It starts with the basics of creating arrays and then gets into more advanced stuff. The video covers creating arrays, indexing, math, statistics, reshaping, and more.
+* [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI) _Learn the basics of the NumPy library in this tutorial for beginners. It provides background information on how NumPy works and how it compares to Python's Built-in lists. This video goes through how to write code with NumPy. It starts with the basics of creating arrays and then gets into more advanced stuff. The video covers creating arrays, indexing, math, statistics, reshaping, and more._
 * [Python NumPy Tutorial – Learn NumPy Arrays With Examples](https://www.edureka.co/blog/python-numpy-tutorial/)
 * [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 * [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
@@ -128,8 +102,7 @@
 
 * [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 * [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
-* []()
-* []()
+* [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
 
 # SVM
 
@@ -170,11 +143,10 @@
 * [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)
 * [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)
 * [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
-* []()
-* []()
-* []()
 
-# probabilistic graphical models
+# Probabilistic Graphical Models
+
+* [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
 # Gradient Descent from Scratch
 
@@ -208,8 +180,7 @@
 
 # NN
 
-* [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
-    * A simple explanation of how they work and how to implement one from scratch in Python.
+* [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) _A simple explanation of how they work and how to implement one from scratch in Python._
 * [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 * [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk)
@@ -231,8 +202,7 @@
 
 # RNN
 
-* [An Introduction to Recurrent Neural Networks for Beginners](https://victorzhou.com/blog/intro-to-rnns/)
-    * A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python.
+* [An Introduction to Recurrent Neural Networks for Beginners](https://victorzhou.com/blog/intro-to-rnns/) _A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python._
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
@@ -288,10 +258,27 @@
 * [Machine Learning in 5 Minutes: How to deploy a ML model (SurveyMonkey Engineer explains)](https://www.youtube.com/watch?v=XsD2u7hAwI8)
 * [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
 
-# Courses
+# Code
 
-* [Machine Learning by Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
-* [Datacamp : Data Engineer with Python](https://www.datacamp.com/tracks/data-engineer-with-python)
-* [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
-    * Topics Covered Naive Bayes, SVM, Decision Trees, Regressions, Outliers, Clustering, Feature Scaling, Text Learning, Feature Selection, PCA, Validation, Evaluation Metrics
-* [NVIDIA DEEP LEARNING INSTITUTE](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+* [codebasics/py](https://github.com/codebasics/py)
+* [Google Codelabs](https://codelabs.developers.google.com/)
+
+# CheetSheets
+
+* [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+
+# Reference
+* https://end-to-end-machine-learning.teachable.com/courses/667372/lectures/11900568
+* [ML Fundamentals by StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+* [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+* [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python - Daniel Bourke](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
+* [Data School](https://www.dataschool.io/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* https://www.machinelearningisfun.com/
+* https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+* https://medium.com/greyatom
+* https://greyatom.com/glabs
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) _Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required._
+* [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
+* [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
+
