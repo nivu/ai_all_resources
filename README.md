@@ -2,7 +2,7 @@
 
 ## _Knowledge Not Shared is wasted - Clan Jacobs_
 
-## _This collection is a compilation of Excellent ML and DL Tutorials created by the people below_
+### This collection is a compilation of Excellent ML and DL Tutorials created by the people below
 
 * [Andrej Karpathy blog](http://karpathy.github.io/)
 * [Brandon Roher](https://brohrer.github.io/blog.html)
