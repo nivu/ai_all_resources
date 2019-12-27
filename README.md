@@ -30,6 +30,7 @@
 * [Datacamp : Data Engineer with Python](https://www.datacamp.com/tracks/data-engineer-with-python)
 * [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120) _Topics Covered Naive Bayes, SVM, Decision Trees, Regressions, Outliers, Clustering, Feature Scaling, Text Learning, Feature Selection, PCA, Validation, Evaluation Metrics_
 * [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) _The Best Course for Learning TensorFlow_
+* [End-to-End Machine Learning](https://end-to-end-machine-learning.teachable.com/courses/)
 * [NVIDIA DEEP LEARNING INSTITUTE](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
 # ML Terms Fundamentals
@@ -152,6 +153,7 @@
 
 * [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
+* [How Optimization Works](https://end-to-end-machine-learning.teachable.com/p/building-blocks-how-optimization-works) _A short series on the fundamentals of optimization for machine learning_
 * https://www.youtube.com/watch?v=L-Lsfu4ab74&vl=en
 * https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931
 * https://github.com/chasinginfinity/ml-from-scratch
@@ -175,6 +177,7 @@
 * [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
 # Deep Learning
+
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 * [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
@@ -208,6 +211,13 @@
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Attention and Augmented Recurrent Neural Networks by Distill](https://distill.pub/2016/augmented-rnns/)
+* [Visualizing memorization in RNNs by Distill](https://distill.pub/2019/memorization-in-rnns/) _Inspecting gradient magnitudes in context can be a powerful tool to see when recurrent units use short-term or long-term contextual understanding._
+
+# LSTM
+
+* [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
 
 # BERT
 
@@ -223,8 +233,10 @@
 # RL
 
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
-* [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)\
+* [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [🖥️ WRITING MY FIRST MACHINE LEARNING GAME! (1/4)](https://www.youtube.com/watch?v=ZX2Hyu5WoFg)
+* [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
+* [A Beginner's Guide to Deep Reinforcement Learning](https://pathmind.com/wiki/deep-reinforcement-learning)
 
 # PyTorch
 
