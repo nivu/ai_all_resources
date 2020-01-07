@@ -9,7 +9,7 @@
 * [Andrew Trask](https://iamtrask.github.io/)
 * [Jay Alammar](https://jalammar.github.io/)
 * [Sebastian Ruder](https://ruder.io/)
-* [OpenAI Team](https://distill.pub/)
+* [Distill](https://distill.pub/)
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
 
 # Community
@@ -33,20 +33,28 @@
 * [End-to-End Machine Learning](https://end-to-end-machine-learning.teachable.com/courses/)
 * [NVIDIA DEEP LEARNING INSTITUTE](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
-# ML Terms Fundamentals
+# YouTube ML Playlists
 
+* [Machine Learning by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+* [Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX)
+
+# Machine Learning Fundamentals _(These terms will be often used in the below algorithms)_
+
+* [Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+* [Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
+* [Sensitivity and Specivicity](https://www.youtube.com/watch?v=sunUKFXMHGk)
+* [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
 * [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM)
 * [StatQuest: P Values, clearly explained](https://www.youtube.com/watch?v=5Z9OIYA8He8)
-* [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
 * [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
-* [Sensitivity and Specivicity]()
-* [Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
-* [Cost Function]()
+* [Regularization Part 1: Ridge Regression](https://www.youtube.com/watch?v=Q81RR3yKn30)
+* [Regularization Part 2: Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs)
 * [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
-* [Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
 * [Covariance and Correlation Part 1: Covariance](https://www.youtube.com/watch?v=qtaqvPAeEJY)
 * [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY)
 * [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU)
+* [Glossary: Statistics](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/wiki/Glossary:-Statistics)
+* [Glossary: Machine Learning](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/wiki/Glossary:-Machine-Learning)
 
 # Math 
 
@@ -94,10 +102,10 @@
 
 * [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
 * [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA)
-* https://www.geeksforgeeks.org/decision-tree-introduction-example/
-* https://www.geeksforgeeks.org/decision-tree/
-* https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/
-* https://www.geeksforgeeks.org/ml-logistic-regression-v-s-decision-tree-classification/
+* [Decision Tree Introduction with example](https://www.geeksforgeeks.org/decision-tree-introduction-example/)
+* [Decision Tree](https://www.geeksforgeeks.org/decision-tree/)
+* [Python | Decision Tree Regression using sklearn](https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/)
+* [ML | Logistic Regression v/s Decision Tree Classification](https://www.geeksforgeeks.org/ml-logistic-regression-v-s-decision-tree-classification/)
 
 # Random Forest
 
@@ -135,8 +143,8 @@
 
 # Principal Component Analysis (PCA)
 
-* [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
+* [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * [Principal Component Analysis (PCA) by Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
 # Boosting Machine Learning
@@ -144,6 +152,7 @@
 * [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)
 * [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)
 * [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+* [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)
 
 # Probabilistic Graphical Models
 
@@ -151,19 +160,25 @@
 
 # Gradient Descent from Scratch
 
+## The Best
+
+* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)
 * [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
 * [How Optimization Works](https://end-to-end-machine-learning.teachable.com/p/building-blocks-how-optimization-works) _A short series on the fundamentals of optimization for machine learning_
-* https://www.youtube.com/watch?v=L-Lsfu4ab74&vl=en
-* https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931
-* https://github.com/chasinginfinity/ml-from-scratch
-* https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
-* https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/
-* https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression
-* https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning
-* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)
+* [Linear Regression using Gradient Descent](https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931)
+    * [Code](https://github.com/chasinginfinity/ml-from-scratch)
+* [Polynomial Regression](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
+* [Gradient Descent in Linear Regression - Math](https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/)
 * [Neural Network Backpropagation Basics For Dummies](https://www.youtube.com/watch?v=8d6jf7s6_Qs)
-* [How to Implement Linear Regression From Scratch in Python](https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/)
+
+## Extra Good Ones
+
+* [3.4: Linear Regression with Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=L-Lsfu4ab74)
+* [3.5: Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM)
+* [3.5a: Calculus: Power Rule - Intelligence and Learning](https://www.youtube.com/watch?v=IKb_3FJtA1U)
+* [3.5b: Calculus: Chain Rule - Intelligence and Learning](https://www.youtube.com/watch?v=cE6wr0_ad8Y)
+* [3.5c: Calculus: Partial Derivative - Intelligence and Learning](https://www.youtube.com/watch?v=-WVBXXV81R4)
 
 ## How to Handle Local Minima
 
@@ -259,6 +274,10 @@
 * [How To Run TensorFlow Lite on Raspberry Pi for Object Detection](https://www.youtube.com/watch?v=aimSGOAUI8Y)
 * [How computers learn to recognize objects instantly | Joseph Redmon](https://www.youtube.com/watch?v=Cgxsv1riJhI)
 
+# PyTorch Vs TensorFlow
+
+* [Why is PyTorch becoming so popular among machine learning engineers?](https://www.quora.com/Why-is-PyTorch-becoming-so-popular-among-machine-learning-engineers)
+
 # Transfer Learning
 
 * [Transfer Learning with Keras and Deep Learning](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
@@ -280,6 +299,7 @@
 * [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 # Reference
+
 * https://end-to-end-machine-learning.teachable.com/courses/667372/lectures/11900568
 * [ML Fundamentals by StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
@@ -293,4 +313,5 @@
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) _Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required._
 * [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
 * [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
-
+* https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression
+* https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning
