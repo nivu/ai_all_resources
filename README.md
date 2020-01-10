@@ -11,6 +11,9 @@
 * [Sebastian Ruder](https://ruder.io/)
 * [Distill](https://distill.pub/)
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
+* [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+* [Lex Fridman](https://www.youtube.com/user/lexfridman)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 # Community
 
@@ -32,6 +35,9 @@
 * [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) _The Best Course for Learning TensorFlow_
 * [End-to-End Machine Learning](https://end-to-end-machine-learning.teachable.com/courses/)
 * [NVIDIA DEEP LEARNING INSTITUTE](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+* [Introduction to Machine Learning for Coders!](http://course18.fast.ai/ml)
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
+* [FastAI](https://www.fast.ai/)
 
 # YouTube ML Playlists
 
@@ -61,6 +67,7 @@
 * [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _In this post I have compiled great e-resources for learning Mathematics for Machine Learning._
 * [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)
 * [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)
+* [New fast.ai course: Computational Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)
 
 # Numpy
 
@@ -180,6 +187,11 @@
 * [3.5b: Calculus: Chain Rule - Intelligence and Learning](https://www.youtube.com/watch?v=cE6wr0_ad8Y)
 * [3.5c: Calculus: Partial Derivative - Intelligence and Learning](https://www.youtube.com/watch?v=-WVBXXV81R4)
 
+## Vanishing Gradient
+
+* [Vanishing Gradient Problem](https://www.youtube.com/watch?v=SKMpmAOUa2Q)
+* [How to overcome Vanishing Gradient Problem](https://www.youtube.com/watch?v=puux7KZQfsE)
+
 ## How to Handle Local Minima
 
 * https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum
@@ -196,6 +208,10 @@
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 * [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
+### Course
+
+* [MIT Deep Learning](https://deeplearning.mit.edu/)
+
 # NN
 
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) _A simple explanation of how they work and how to implement one from scratch in Python._
@@ -205,20 +221,43 @@
 * [Neural Networks Demystified by Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
     * [Supporting code for short YouTube series Neural Networks Demystified.](https://github.com/stephencwelch/Neural-Networks-Demystified)
 
-# CNN
+# Computer Vision
 
+* [CS131 Computer Vision: Foundations and Applications Fall 2019](http://vision.stanford.edu/teaching/cs131_fall1920/index.html)
+* [CS231A: Computer Vision, From 3D Reconstruction to Recognition Winter 2018](http://web.stanford.edu/class/cs231a/)
+
+## CNN
+
+* [CS231n: Convolutional Neural Networks for Visual Recognition Spring 2019](http://cs231n.stanford.edu/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 * [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 * [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 * [Convolutional Neural Networks for Beginners](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
 * [Tensorflow Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
 * [Convolutional Networks Book](http://www.deeplearningbook.org/contents/convnets.html)
+* [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+* [CS231n Winter 2016 BY Andrej Karpathy 15 Videos](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
-# Computer Vision
+## Object Detection
 
 * [YOLO](https://pjreddie.com/darknet/yolo/)
 
-# RNN
+## Image Segmentation
+
+* [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
+
+# GANs
+
+* [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
+* [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+* [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+* [Generative Models](https://openai.com/blog/generative-models/)
+
+# NLP
+
+* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+
+## RNN
 
 * [An Introduction to Recurrent Neural Networks for Beginners](https://victorzhou.com/blog/intro-to-rnns/) _A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python._
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
@@ -230,20 +269,18 @@
 * [Attention and Augmented Recurrent Neural Networks by Distill](https://distill.pub/2016/augmented-rnns/)
 * [Visualizing memorization in RNNs by Distill](https://distill.pub/2019/memorization-in-rnns/) _Inspecting gradient magnitudes in context can be a powerful tool to see when recurrent units use short-term or long-term contextual understanding._
 
-# LSTM
+## LSTM
 
 * [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
+* [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
+* [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 
-# BERT
+## BERT
 
+* [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 * [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
 * [BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc](https://github.com/dmis-lab/biobert)
-
-# GANs
-
-* [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
-* [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 
 # RL
 
@@ -298,8 +335,18 @@
 
 * [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
+# GPU
+
+* [Why GPUs](https://course.fast.ai/gpu_tutorial.html)
+
+# Edge ML Kits
+
+* [Coral](https://coral.ai/)
+
 # Reference
 
+* [🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw)
+* [My Self-Created Artificial Intelligence Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e)
 * https://end-to-end-machine-learning.teachable.com/courses/667372/lectures/11900568
 * [ML Fundamentals by StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
