@@ -68,6 +68,7 @@
 * [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)
 * [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)
 * [New fast.ai course: Computational Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)
+* [Linear Algebra Book](http://www.deeplearningbook.org/contents/linear_algebra.html)
 
 # Numpy
 
@@ -205,11 +206,15 @@
 
 # Deep Learning
 
+* [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 * [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
 ### Course
 
+* [6.S191: Introduction to Deep Learning (2019)](http://introtodeeplearning.com/2019/)
+    * [Lab](https://github.com/aamini/introtodeeplearning_labs)
+* [MIT 6.S191 Introduction to Deep Learning (2020)](http://introtodeeplearning.com/)
 * [MIT Deep Learning](https://deeplearning.mit.edu/)
 
 # NN
