@@ -329,6 +329,7 @@
 
 - [Machine Learning in 5 Minutes: How to deploy a ML model (SurveyMonkey Engineer explains)](https://www.youtube.com/watch?v=XsD2u7hAwI8)
 - [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
+- [MlFlow - An open source platform for the machine learning lifecycle](https://mlflow.org/)
 
 ## Code
 
@@ -348,6 +349,11 @@
 - [Nvidia Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 - [Intel® Neural Compute Stick 2 (Intel® NCS2)](https://software.intel.com/en-us/neural-compute-stick)
 - [Coral](https://coral.ai/)
+
+## Data Science Competitions
+
+- [Kaggle](https://www.kaggle.com/)
+- [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/)
 
 ## Reference
 
