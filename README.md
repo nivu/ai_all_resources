@@ -207,18 +207,13 @@
 
 ## Deep Learning
 
--
-
-- [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
-
-### Course
-
 - [6.S191: Introduction to Deep Learning (2019)](http://introtodeeplearning.com/2019/)
   - [Class Lectures (YouTube) - MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Lab](https://github.com/aamini/introtodeeplearning_labs)
 - [MIT 6.S191 Introduction to Deep Learning (2020)](http://introtodeeplearning.com/)
+- [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 - [MIT Deep Learning by Lex Fridman](https://deeplearning.mit.edu/)
-  - [Deep Learning Lectures](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+  - [Deep Learning Lectures (YouTube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
 ## NN
