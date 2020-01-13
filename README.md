@@ -160,6 +160,7 @@
 
 - [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)
 - [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)
+- [XGBoost Part 2: XGBoost Trees For Classification](https://www.youtube.com/watch?v=8b1JEDvenQU)
 - [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
 - [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)
 
