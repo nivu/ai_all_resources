@@ -286,7 +286,7 @@
 - [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
 - [BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc](https://github.com/dmis-lab/biobert)
 
-## RL
+## Reinforcement Learning
 
 - [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 - [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
