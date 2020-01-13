@@ -241,6 +241,7 @@
 - [Convolutional Networks Book](http://www.deeplearningbook.org/contents/convnets.html)
 - [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 - [CS231n Winter 2016 BY Andrej Karpathy 15 Videos](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [Intuitive understanding of 1D, 2D, and 3D Convolutions in Convolutional Neural Networks](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n)
 
 ## Object Detection
 
