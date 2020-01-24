@@ -18,6 +18,7 @@
 ## Communities to Follow
 
 - [Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
+- [TensorFlow User Group Coimbatore](https://www.meetup.com/TFUGCbe/)
 - [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
 ## Why Data Science?
