@@ -217,6 +217,8 @@
   - [Deep Learning Lectures (YouTube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
+### [Deep Lerning Papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
 ## NN
 
 - [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) _A simple explanation of how they work and how to implement one from scratch in Python._
@@ -332,6 +334,7 @@
 - [Machine Learning in 5 Minutes: How to deploy a ML model (SurveyMonkey Engineer explains)](https://www.youtube.com/watch?v=XsD2u7hAwI8)
 - [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
 - [MlFlow - An open source platform for the machine learning lifecycle](https://mlflow.org/)
+- [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 
 ## Code
 
