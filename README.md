@@ -250,6 +250,7 @@
 ## Object Detection
 
 - [YOLO](https://pjreddie.com/darknet/yolo/)
+- [YOLO-Object-Counting-API](https://github.com/tugot17/YOLO-Object-Counting-API)
 
 ## Image Segmentation
 
@@ -265,6 +266,7 @@
 ## NLP
 
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [NLP and The Reformer](https://www.youtube.com/watch?v=rNG_hpSyZcE)
 
 ### RNN
 
