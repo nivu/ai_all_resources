@@ -18,12 +18,20 @@
 ## Communities to Follow
 
 - [Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
+  - _Join here_
+  - [Meetup : Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
+  - [For Daily Updates Join our Telegram](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
+  - [Facebook : Coimbatore School of AI](https://www.facebook.com/groups/440187506472896/)
+  - [TensorFlow User Group Coimbatore](https://www.meetup.com/TFUGCbe/)
 - [TensorFlow User Group Coimbatore](https://www.meetup.com/TFUGCbe/)
 - [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
-## Why Data Science?
+## Why Data Science and how to get started ?
 
+- [🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw)
 - [How to Build a Meaningful Career in Data Science](https://www.datacamp.com/community/blog/how-to-build-a-meaningful-career-in-data-science)
+- [My Self-Created Artificial Intelligence Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e)
+- [PyImageSearch](https://www.pyimagesearch.com/start-here/)
 
 ## Intro to ML
 
@@ -295,11 +303,13 @@
 
 ## Reinforcement Learning
 
+- [Deep Reinforcement Learning Course 🕹️](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) _A Free course in Deep Reinforcement Learning from beginner to expert._
 - [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 - [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 - [🖥️ WRITING MY FIRST MACHINE LEARNING GAME! (1/4)](https://www.youtube.com/watch?v=ZX2Hyu5WoFg)
 - [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
 - [A Beginner's Guide to Deep Reinforcement Learning](https://pathmind.com/wiki/deep-reinforcement-learning)
+- [An Introduction to Unity ML-Agents](https://towardsdatascience.com/an-introduction-to-unity-ml-agents-6238452fcf4c)
 
 ## PyTorch
 
