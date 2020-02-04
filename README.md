@@ -20,9 +20,11 @@
 - [Coimbatore School of AI](http://soaicbe.org/)
   - *Join here*🔗⬇️
   - [Meetup : Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
-  - [For Daily Updates Join our Telegram](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
+  - [Telegram : For Daily Updates](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
   - [Facebook : Coimbatore School of AI](https://www.facebook.com/groups/440187506472896/)
-- [TensorFlow User Group Coimbatore](https://www.meetup.com/TFUGCbe/)
+- [TensorFlow User Group Coimbatore](https://www.tensorflow.org/community/groups)
+  - [Meetup : TFUGCbe](https://www.meetup.com/TFUGCbe/)
+  - [Facebook : TFUGCbe](https://www.facebook.com/groups/2425901487658992/)
 - [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
 ## Why Data Science and how to get started ?
@@ -73,7 +75,11 @@
 
 ## Math
 
-- [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _In this post I have compiled great e-resources for learning Mathematics for Machine Learning._
+- [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _In this post I have compiled great e-resources (MOOC, YouTube Lectures, Books) for learning Mathematics for Machine Learning._
+- **I highly Recommend you to go through the following resources by 3Blue1Brown**
+  - [Essence of Linear Algrbra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Essene of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  - [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 - [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)
 - [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)
 - [New fast.ai course: Computational Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)
@@ -143,6 +149,7 @@
 
 ## Bayes Theorem
 
+- [Bayes theorem, and making probability intuitive](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 - [A friendly introduction to Bayes Theorem and Hidden Markov Models](https://www.youtube.com/watch?v=kqSzLo9fenk)
 - [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)
 - [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
@@ -216,6 +223,7 @@
 
 ## Deep Learning
 
+- [DEEP BLUEBERRY BOOK](https://mithi.github.io/deep-blueberry/) _This is a tiny and very focused collection of links about deep learning. If you've always wanted to learn deep learning stuff but don't know where to start, you might have stumbled upon the right place!_
 - [6.S191: Introduction to Deep Learning (2019)](http://introtodeeplearning.com/2019/)
   - [Class Lectures (YouTube) - MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Lab](https://github.com/aamini/introtodeeplearning_labs)
