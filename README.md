@@ -158,7 +158,7 @@
 
 - [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
 - [Machine Learning Tutorial Python - 13: K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)
-- [K Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Edureka](https://www.youtube.com/watch?v=1XqG0kaJVHY)
+- [K Means Clustering Algorithm - K Means Example in Python - Machine Learning Algorithms - Edureka](https://www.youtube.com/watch?v=1XqG0kaJVHY)
 
 ## K-Nearest Neighbors
 
