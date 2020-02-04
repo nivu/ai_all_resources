@@ -17,12 +17,11 @@
 
 ## Communities to Follow
 
-- [Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
-  - _Join here_
+- [Coimbatore School of AI](http://soaicbe.org/)
+  - *Join here*🔗⬇️
   - [Meetup : Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
   - [For Daily Updates Join our Telegram](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
   - [Facebook : Coimbatore School of AI](https://www.facebook.com/groups/440187506472896/)
-  - [TensorFlow User Group Coimbatore](https://www.meetup.com/TFUGCbe/)
 - [TensorFlow User Group Coimbatore](https://www.meetup.com/TFUGCbe/)
 - [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
