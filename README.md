@@ -10,10 +10,12 @@
 - [Jay Alammar](https://jalammar.github.io/)
 - [Sebastian Ruder](https://ruder.io/)
 - [Distill](https://distill.pub/)
-- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
+- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - [Lex Fridman](https://www.youtube.com/user/lexfridman)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Alexander Amini](https://www.youtube.com/user/Zan560)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
 
 ## Communities to Follow
 
@@ -379,6 +381,36 @@
 
 - [Kaggle](https://www.kaggle.com/)
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/)
+
+## Important Youtube Channels in the field of AI/ML/RL/DS
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+- [Sentdex](https://www.youtube.com/user/sentdex)
+- [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+- [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
+- [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+- [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch)
+- [Corey Schafer](https://www.youtube.com/user/schafer5)
+- [Data School](https://www.youtube.com/user/dataschool)
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+- [Welch Labs](https://www.youtube.com/user/Taylorns34)
+- [Simplilearn](https://www.youtube.com/user/Simplilearn)
+- [Great Learning](https://www.youtube.com/user/beaconelearning)
+- [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+- [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+- [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+- [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+- [edureka!](https://www.youtube.com/user/edurekaIN)
+- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
+- [The Artificial Intelligence Channe](https://www.youtube.com/user/Maaaarth)
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [CloudxLab](https://www.youtube.com/channel/UC8mJ6DL1Q32UWyJUceoO8Jw)
+- [Alexander Amini](https://www.youtube.com/user/Zan560)
+- [Jeff Heaton](https://www.youtube.com/user/HeatonResearch)
+- [Abhishek Thakur](https://www.youtube.com/user/abhisheksvnit)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
 
 ## Reference
 
