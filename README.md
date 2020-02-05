@@ -382,7 +382,7 @@
 - [Kaggle](https://www.kaggle.com/)
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/)
 
-## Important Youtube Channels in the field of AI/ML/RL/DS
+## Important Youtube🎬 Channels in the field of AI/ML/RL/DS
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
