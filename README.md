@@ -38,7 +38,12 @@
 
 ## Intro to ML
 
-- [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
+- [Luis Serrano: A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
+- [StatQuest: A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
+
+## Any one can do Machine Learning
+
+- [Teachable Machine](https://teachablemachine.withgoogle.com/) _Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required._
 
 ## MOOCs
 
@@ -108,9 +113,21 @@
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 
-## Simple ML Playlist from CodeBasics
+## Machine Learning YouTube Playlists
 
-- [Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+- [CodeBasics: Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+
+- [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+
+- [sentdex: Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+- [Simplilearn: Machine Learning Tutorial Videos](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)
+
+- [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
+
+- [deeplizard: Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+
+_Note: Below you can find the best lectures for popular Machine Learning Algorithms_
 
 ## Linear Regression
 
@@ -223,7 +240,7 @@
 - [An introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
-## Deep Learning
+# Deep Learning
 
 - [DEEP BLUEBERRY BOOK](https://mithi.github.io/deep-blueberry/) _This is a tiny and very focused collection of links about deep learning. If you've always wanted to learn deep learning stuff but don't know where to start, you might have stumbled upon the right place!_
 - [6.S191: Introduction to Deep Learning (2019)](http://introtodeeplearning.com/2019/)
@@ -235,7 +252,9 @@
   - [Deep Learning Lectures (YouTube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
-### [Deep Lerning Papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+### Deep Lerning Papers
+
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## NN
 
@@ -246,12 +265,12 @@
 - [Neural Networks Demystified by Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
   - [Supporting code for short YouTube series Neural Networks Demystified.](https://github.com/stephencwelch/Neural-Networks-Demystified)
 
-# Computer Vision
+## Computer Vision
 
 - [CS131 Computer Vision: Foundations and Applications Fall 2019](http://vision.stanford.edu/teaching/cs131_fall1920/index.html)
 - [CS231A: Computer Vision, From 3D Reconstruction to Recognition Winter 2018](http://web.stanford.edu/class/cs231a/)
 
-## CNN
+### CNN
 
 - [CS231n: Convolutional Neural Networks for Visual Recognition Spring 2019](http://cs231n.stanford.edu/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
@@ -264,16 +283,16 @@
 - [CS231n Winter 2016 BY Andrej Karpathy 15 Videos](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [Intuitive understanding of 1D, 2D, and 3D Convolutions in Convolutional Neural Networks](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n)
 
-## Object Detection
+### Object Detection
 
 - [YOLO](https://pjreddie.com/darknet/yolo/)
 - [YOLO-Object-Counting-API](https://github.com/tugot17/YOLO-Object-Counting-API)
 
-## Image Segmentation
+### Image Segmentation
 
 - [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 
-## GANs
+### GANs
 
 - [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
@@ -413,6 +432,10 @@
 - [Abhishek Thakur](https://www.youtube.com/user/abhisheksvnit)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 
+## This Repo is Maintained by
+
+- [Navaneeth Malingan](https://www.linkedin.com/in/nivu/)
+
 ## Reference
 
 - [🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw)
@@ -427,7 +450,6 @@
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 - https://medium.com/greyatom
 - https://greyatom.com/glabs
-- [Teachable Machine](https://teachablemachine.withgoogle.com/) _Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required._
 - [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
 - [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
 - https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression
