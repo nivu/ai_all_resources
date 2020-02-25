@@ -317,6 +317,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Attention and Augmented Recurrent Neural Networks by Distill](https://distill.pub/2016/augmented-rnns/)
 - [Visualizing memorization in RNNs by Distill](https://distill.pub/2019/memorization-in-rnns/) _Inspecting gradient magnitudes in context can be a powerful tool to see when recurrent units use short-term or long-term contextual understanding._
+- [Deep Learning for NLP: ANNs, RNNs and LSTMs explained!](https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html)
 
 ### LSTM
 

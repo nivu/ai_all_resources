@@ -1,5 +1,9 @@
 # Computer Vision
 
+### Computer Vision Recipies
+
+[microsoft / computervision-recipes : Best Practices, code samples, and documentation for Computer Vision.](https://github.com/microsoft/computervision-recipes)
+
 ### Image Classification
 
 A form of inference in which an object in an image is determined to be of a particular class, such as a cat vs. a dog.
