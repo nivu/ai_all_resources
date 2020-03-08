@@ -19,8 +19,7 @@
 
 ## Communities to Follow
 
-- [Coimbatore School of AI](http://soaicbe.org/)
-  - *Join here*🔗⬇️
+- [Coimbatore School of AI](http://soaicbe.org/) *Join here*🔗⬇️
   - [Meetup : Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
   - [Telegram : For Daily Updates](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
   - [Facebook : Coimbatore School of AI](https://www.facebook.com/groups/440187506472896/)
@@ -29,7 +28,7 @@
   - [Facebook : TFUGCbe](https://www.facebook.com/groups/2425901487658992/)
 - [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
-## Why Data Science and how to get started ?
+## Why Data Science and how to get started?
 
 - [🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw)
 - [How to Build a Meaningful Career in Data Science](https://www.datacamp.com/community/blog/how-to-build-a-meaningful-career-in-data-science)
@@ -62,15 +61,19 @@
 - [Machine Learning by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX)
 
+## Machine Learning Glossary
+
+- [This glossary defines general machine learning terms in a variety of domains, as well as terms specific to TensorFlow.](https://developers.google.com/machine-learning/glossary)
+
 ## Machine Learning Fundamentals _(These terms will be often used in the below algorithms)_
 
 - [Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 - [Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
+- [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
 - [Sensitivity and Specivicity](https://www.youtube.com/watch?v=sunUKFXMHGk)
 - [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM)
 - [StatQuest: P Values, clearly explained](https://www.youtube.com/watch?v=5Z9OIYA8He8)
-- [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
 - [Regularization Part 1: Ridge Regression](https://www.youtube.com/watch?v=Q81RR3yKn30)
 - [Regularization Part 2: Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs)
 - [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
@@ -310,7 +313,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [An Introduction to Recurrent Neural Networks for Beginners](https://victorzhou.com/blog/intro-to-rnns/) _A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python._
 - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
-- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
@@ -324,6 +326,12 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
+
+### GPT-2
+
+- [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 
 ### BERT
 
