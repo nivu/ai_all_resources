@@ -34,6 +34,7 @@
 - [How to Build a Meaningful Career in Data Science](https://www.datacamp.com/community/blog/how-to-build-a-meaningful-career-in-data-science)
 - [My Self-Created Artificial Intelligence Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e)
 - [PyImageSearch](https://www.pyimagesearch.com/start-here/)
+- [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
 
 ## Intro to ML
 
@@ -367,10 +368,15 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [TensorFlow Lite: Solution for running ML on-device (TF World '19)](https://www.youtube.com/watch?v=0SpZy7iouFU)
 - [Machine Learning in JavaScript (TensorFlow Dev Summit 2018)](https://www.youtube.com/watch?v=YB-kfeNIPCE)
 - [TensorFlow.js Quick Start](https://www.youtube.com/watch?v=Y_XM3Bu-4yc)
-- [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)
 - [Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?](https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/)
 - [How To Run TensorFlow Lite on Raspberry Pi for Object Detection](https://www.youtube.com/watch?v=aimSGOAUI8Y)
 - [How computers learn to recognize objects instantly | Joseph Redmon](https://www.youtube.com/watch?v=Cgxsv1riJhI)
+
+### TensorFlow Courses
+
+- [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)
+- [TensorFlow in Practice Specialization : Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [TensorFlow: Data and Deployment Specialization : Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 
 ### PyTorch Vs TensorFlow
 
