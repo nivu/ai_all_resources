@@ -26,7 +26,6 @@
 - [TensorFlow User Group Coimbatore](https://www.tensorflow.org/community/groups)
   - [Meetup : TFUGCbe](https://www.meetup.com/TFUGCbe/)
   - [Facebook : TFUGCbe](https://www.facebook.com/groups/2425901487658992/)
-- [Omdena - Building AI for Good - By the People, For the People](https://medium.com/omdena)
 
 ## Why Data Science and how to get started?
 
@@ -41,7 +40,7 @@
 - [Luis Serrano: A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 - [StatQuest: A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 
-## Any one can do Machine Learning
+## Anyone can do Machine Learning
 
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) _Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required._
 
@@ -88,13 +87,18 @@
 
 - [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _In this post I have compiled great e-resources (MOOC, YouTube Lectures, Books) for learning Mathematics for Machine Learning._
 - **I highly Recommend you to go through the following resources by 3Blue1Brown**
-  - [Essence of Linear Algrbra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-  - [Essene of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-  - [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
-- [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)
-- [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)
+  - [Essence of Linear Algrbra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)▶️
+  - [Essene of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)▶️
+  - [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)▶️
+- [Gilbert Strang: Linear Algebra vs Calculus](https://www.youtube.com/watch?v=osEADxaIKIc)▶️
+- [Basics of Integral Calculus in Tamil](https://www.youtube.com/watch?v=yMQjCFvMFgA)▶️
 - [New fast.ai course: Computational Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)
 - [Linear Algebra Book](http://www.deeplearningbook.org/contents/linear_algebra.html)
+
+## Python
+
+- [Python Programming Tutorials by Socratica](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)▶️
+- [Python Tutorial by w3schools](https://www.w3schools.com/python/)📙
 
 ## Numpy
 
@@ -105,102 +109,99 @@
 - [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 - [Numpy Tutorial – Introduction to ndarray](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
 - [Sci-Py Lectures : NumPy: creating and manipulating numerical data](https://scipy-lectures.org/intro/numpy/index.html)
-- [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI) _Learn the basics of the NumPy library in this tutorial for beginners. It provides background information on how NumPy works and how it compares to Python's Built-in lists. This video goes through how to write code with NumPy. It starts with the basics of creating arrays and then gets into more advanced stuff. The video covers creating arrays, indexing, math, statistics, reshaping, and more._
+- [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)▶️ _Learn the basics of the NumPy library in this tutorial for beginners. It provides background information on how NumPy works and how it compares to Python's Built-in lists. This video goes through how to write code with NumPy. It starts with the basics of creating arrays and then gets into more advanced stuff. The video covers creating arrays, indexing, math, statistics, reshaping, and more._
 - [Python NumPy Tutorial – Learn NumPy Arrays With Examples](https://www.edureka.co/blog/python-numpy-tutorial/)
 - [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 - [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
-- [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.youtube.com/playlist?list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM)
+- [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.youtube.com/playlist?list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM)▶️
 
 ## Pandas
 
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+- [Data analysis in Python with pandas by Data School](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)▶️
+- [Best practices with pandas by Data School](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)▶️
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 
 ## Machine Learning YouTube Playlists
 
-- [CodeBasics: Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
-
-- [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
-
-- [sentdex: Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-
-- [Simplilearn: Machine Learning Tutorial Videos](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)
-
-- [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
-
-- [deeplizard: Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+- [CodeBasics: Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)▶️
+- [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)▶️
+- [sentdex: Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)▶️
+- [Simplilearn: Machine Learning Tutorial Videos](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)▶️
+- [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)▶️
+- [deeplizard: Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)▶️
 
 _Note: Below you can find the best lectures for popular Machine Learning Algorithms_
 
 ## Linear Regression
 
-- [Linear Regression: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c)
-- [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
-- [All Types of Regression](https://medium.com/greyatom/logistic-regression-89e496433063)
+- [Linear Regression: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c)▶️
+- [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4)▶️
+- [All Types of Regression](https://medium.com/greyatom/logistic-regression-89e496433063)📙
 
 ## Logistic Regression
 
-- [Linear Regression vs Logistic Regression | Data Science Training | Edureka](https://www.youtube.com/watch?v=OCwZyYH14uw)
-- [Logistic Regression and the Perceptron Algorithm: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=jbluHIgBmBo)
+- [Linear Regression vs Logistic Regression | Data Science Training | Edureka](https://www.youtube.com/watch?v=OCwZyYH14uw)▶️
+- [Logistic Regression and the Perceptron Algorithm: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=jbluHIgBmBo)▶️
 
 ## Decission Tree
 
-- [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
-- [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA)
-- [Decision Tree Introduction with example](https://www.geeksforgeeks.org/decision-tree-introduction-example/)
-- [Decision Tree](https://www.geeksforgeeks.org/decision-tree/)
-- [Python | Decision Tree Regression using sklearn](https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/)
-- [ML | Logistic Regression v/s Decision Tree Classification](https://www.geeksforgeeks.org/ml-logistic-regression-v-s-decision-tree-classification/)
+- [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)▶️
+- [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA)▶️
+- [Decision Tree Introduction with example](https://www.geeksforgeeks.org/decision-tree-introduction-example/)📙
+- [Decision Tree](https://www.geeksforgeeks.org/decision-tree/)📙
+- [Python | Decision Tree Regression using sklearn](https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/)📙
+- [ML | Logistic Regression v/s Decision Tree Classification](https://www.geeksforgeeks.org/ml-logistic-regression-v-s-decision-tree-classification/)📙
 
 ## Random Forest
 
-- [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
-- [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
-- [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
+- [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)▶️
+- [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)▶️
+- [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)📙
 
 ## SVM
 
-- [Support Vector Machines (SVMs): A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=Lpr__X8zuE8)
-- [Support Vector Machines, Clearly Explained!!! by StatQuest](https://www.youtube.com/watch?v=efR1C6CvhmE)
-- [Support Vector Machines Part 2: The Polynomial Kernel by StatQuest](https://www.youtube.com/watch?v=Toet3EiSFcM)
-- [Support Vector Machines Part 3: The Radial (RBF) Kernel by StatQuest](https://www.youtube.com/watch?v=Qc5IyLW_hns)
-- [How Support Vector Machines work / How to open a black box](https://www.youtube.com/watch?v=-Z4aojJ-pdg)
-- [Support Vector Machines - The Math of Intelligence (Week 1)](https://www.youtube.com/watch?v=g8D5YL6cOSE)
-- [Demystifying Support Vector Machines](https://towardsdatascience.com/demystifying-support-vector-machines-8453b39f7368)
-- [Support Vector Machine (SVM) - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
+- [Support Vector Machines (SVMs): A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=Lpr__X8zuE8)▶️
+- [Support Vector Machines, Clearly Explained!!! by StatQuest](https://www.youtube.com/watch?v=efR1C6CvhmE)▶️
+- [Support Vector Machines Part 2: The Polynomial Kernel by StatQuest](https://www.youtube.com/watch?v=Toet3EiSFcM)▶️
+- [Support Vector Machines Part 3: The Radial (RBF) Kernel by StatQuest](https://www.youtube.com/watch?v=Qc5IyLW_hns)▶️
+- [How Support Vector Machines work / How to open a black box](https://www.youtube.com/watch?v=-Z4aojJ-pdg)▶️
+- [Support Vector Machines - The Math of Intelligence (Week 1)](https://www.youtube.com/watch?v=g8D5YL6cOSE)▶️
+- [Demystifying Support Vector Machines](https://towardsdatascience.com/demystifying-support-vector-machines-8453b39f7368)📙
+- [Support Vector Machine (SVM) - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=Y6RRHw9uN9o)▶️
 
 ## Bayes Theorem
 
-- [Bayes theorem, and making probability intuitive](https://www.youtube.com/watch?v=HZGCoVF3YvM)
-- [A friendly introduction to Bayes Theorem and Hidden Markov Models](https://www.youtube.com/watch?v=kqSzLo9fenk)
-- [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)
-- [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
+- [Bayes theorem, and making probability intuitive](https://www.youtube.com/watch?v=HZGCoVF3YvM)▶️
+- [A friendly introduction to Bayes Theorem and Hidden Markov Models](https://www.youtube.com/watch?v=kqSzLo9fenk)▶️
+- [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)▶️
+- [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)▶️
 
 ## K-Means
 
-- [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
-- [Machine Learning Tutorial Python - 13: K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)
-- [K Means Clustering Algorithm - K Means Example in Python - Machine Learning Algorithms - Edureka](https://www.youtube.com/watch?v=1XqG0kaJVHY)
+- [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)▶️
+- [Machine Learning Tutorial Python - 13: K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)▶️
+- [K Means Clustering Algorithm - K Means Example in Python - Machine Learning Algorithms - Edureka](https://www.youtube.com/watch?v=1XqG0kaJVHY)▶️
 
 ## K-Nearest Neighbors
 
-- [KNN from Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
-- [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+- [KNN from Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)📙
+- [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)📙
 
 ## Principal Component Analysis (PCA)
 
-- [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
-- [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
-- [Principal Component Analysis (PCA) by Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
+- [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)▶️
+- [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)▶️
+- [Principal Component Analysis (PCA) by Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)▶️
 
 ## Boosting Machine Learning
 
-- [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)
-- [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)
-- [XGBoost Part 2: XGBoost Trees For Classification](https://www.youtube.com/watch?v=8b1JEDvenQU)
-- [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
-- [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)
+- [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)▶️
+- [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)▶️
+- [XGBoost Part 2: XGBoost Trees For Classification](https://www.youtube.com/watch?v=8b1JEDvenQU)▶️
+- [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)▶️
+- [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)▶️
 
 ## Probabilistic Graphical Models
 
@@ -210,28 +211,29 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ### The Best
 
-- [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)
-- [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
-- [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
+- [Linear Regression using Gradient Descent](https://nivu.me/posts/linear-regression-using-gradient-descent)📙
+- [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)📙
+- [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)▶️
+- [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)▶️
 - [How Optimization Works](https://end-to-end-machine-learning.teachable.com/p/building-blocks-how-optimization-works) _A short series on the fundamentals of optimization for machine learning_
 - [Linear Regression using Gradient Descent](https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931)
   - [Code](https://github.com/chasinginfinity/ml-from-scratch)
 - [Polynomial Regression](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
-- [Gradient Descent in Linear Regression - Math](https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/)
-- [Neural Network Backpropagation Basics For Dummies](https://www.youtube.com/watch?v=8d6jf7s6_Qs)
+- [Gradient Descent in Linear Regression - Math](https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/)📙
+- [Neural Network Backpropagation Basics For Dummies](https://www.youtube.com/watch?v=8d6jf7s6_Qs)▶️
 
 ### Extra Good Ones
 
-- [3.4: Linear Regression with Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=L-Lsfu4ab74)
-- [3.5: Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM)
-- [3.5a: Calculus: Power Rule - Intelligence and Learning](https://www.youtube.com/watch?v=IKb_3FJtA1U)
-- [3.5b: Calculus: Chain Rule - Intelligence and Learning](https://www.youtube.com/watch?v=cE6wr0_ad8Y)
-- [3.5c: Calculus: Partial Derivative - Intelligence and Learning](https://www.youtube.com/watch?v=-WVBXXV81R4)
+- [3.4: Linear Regression with Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=L-Lsfu4ab74)▶️
+- [3.5: Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM)▶️
+- [3.5a: Calculus: Power Rule - Intelligence and Learning](https://www.youtube.com/watch?v=IKb_3FJtA1U)▶️
+- [3.5b: Calculus: Chain Rule - Intelligence and Learning](https://www.youtube.com/watch?v=cE6wr0_ad8Y)▶️
+- [3.5c: Calculus: Partial Derivative - Intelligence and Learning](https://www.youtube.com/watch?v=-WVBXXV81R4)▶️
 
 ### Vanishing Gradient
 
-- [Vanishing Gradient Problem](https://www.youtube.com/watch?v=SKMpmAOUa2Q)
-- [How to overcome Vanishing Gradient Problem](https://www.youtube.com/watch?v=puux7KZQfsE)
+- [Vanishing Gradient Problem](https://www.youtube.com/watch?v=SKMpmAOUa2Q)▶️
+- [How to overcome Vanishing Gradient Problem](https://www.youtube.com/watch?v=puux7KZQfsE)▶️
 
 ### How to Handle Local Minima
 
@@ -241,7 +243,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ## Sci-Kit
 
-- [An introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+- [An introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)📙
 - [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
 # Deep Learning
