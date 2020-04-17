@@ -402,7 +402,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [codebasics/py](https://github.com/codebasics/py)
 - [Google Codelabs](https://codelabs.developers.google.com/)
 
-## CheetSheets
+## CheatSheets
 
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
