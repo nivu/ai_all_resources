@@ -258,6 +258,12 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
   - [Deep Learning Lectures (YouTube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
 
+### Deep Leraning Books
+
+- [The Deep Learning Textbook from Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/)
+- [Neural Networks And Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+- [Grokking Deep Learning by Andrew Trask](https://www.manning.com/books/grokking-deep-learning)
+
 ### Deep Lerning Papers
 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
@@ -304,6 +310,10 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 - [Generative Models](https://openai.com/blog/generative-models/)
+
+#### Style Transfer
+
+- [TensorFlow CNN for fast style transfer ⚡🖥🎨🖼](https://github.com/lengstrom/fast-style-transfer)
 
 ## NLP
 
