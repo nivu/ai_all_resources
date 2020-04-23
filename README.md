@@ -281,6 +281,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 - [CS131 Computer Vision: Foundations and Applications Fall 2019](http://vision.stanford.edu/teaching/cs131_fall1920/index.html)
 - [CS231A: Computer Vision, From 3D Reconstruction to Recognition Winter 2018](http://web.stanford.edu/class/cs231a/)
+- [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
 ### CNN
 

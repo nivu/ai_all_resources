@@ -36,6 +36,11 @@ Look at the papers I mentioned. Links in the link below
 - Papers - https://github.com/terryum/awesome-deep-learning-papers#new-papers
 - Ai blog - https://ai.googleblog.com/
 
+## Demo
+
+- [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
+- [Image-to-Image Demo](https://affinelayer.com/pixsrv/) _Interactive Image Translation with pix2pix-tensorflow_
+
 # Courses
 
 - [A to Z ML/DL](https://www.udemy.com/course/machinelearning/)
