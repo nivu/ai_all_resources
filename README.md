@@ -365,6 +365,10 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [A Beginner's Guide to Deep Reinforcement Learning](https://pathmind.com/wiki/deep-reinforcement-learning)
 - [An Introduction to Unity ML-Agents](https://towardsdatascience.com/an-introduction-to-unity-ml-agents-6238452fcf4c)
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+- [LECTURES: Introduction to Reinforcement Learning - David Silver](https://www.davidsilver.uk/teaching/)
+- [BOOK: Reinforcement Learning - An Introduction by Sutton and Barto](https://drive.google.com/open?id=1lsBhr8H_PVnyidewtqduvV4b8wcsnAiH)
+- [BOOK: Deep Reinforcement Learning Hands On by Maxim Lapan](https://drive.google.com/open?id=1YJUTUsDy2jQ_du-eoExQkk0miCT2NPRm)
+
 
 ## PyTorch
 
