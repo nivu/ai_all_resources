@@ -202,6 +202,10 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [XGBoost Part 2: XGBoost Trees For Classification](https://www.youtube.com/watch?v=8b1JEDvenQU)▶️
 - [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)▶️
 - [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)▶️
+- [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs)▶️
+- [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs)▶️
+- [Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw)▶️
+- [Ensemble methods Sci-kit learn](https://scikit-learn.org/stable/modules/ensemble.html)
 
 ## Probabilistic Graphical Models
 
@@ -368,7 +372,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [LECTURES: Introduction to Reinforcement Learning - David Silver](https://www.davidsilver.uk/teaching/)
 - [BOOK: Reinforcement Learning - An Introduction by Sutton and Barto](https://drive.google.com/open?id=1lsBhr8H_PVnyidewtqduvV4b8wcsnAiH)
 - [BOOK: Deep Reinforcement Learning Hands On by Maxim Lapan](https://drive.google.com/open?id=1YJUTUsDy2jQ_du-eoExQkk0miCT2NPRm)
-
 
 ## PyTorch
 
