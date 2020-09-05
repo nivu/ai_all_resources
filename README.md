@@ -16,6 +16,7 @@
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Alexander Amini](https://www.youtube.com/user/Zan560)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
+- [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 
 ## Communities to Follow
 
