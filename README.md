@@ -27,6 +27,10 @@
   - [Meetup : TFUGCbe](https://www.meetup.com/TFUGCbe/)
   - [Facebook : TFUGCbe](https://www.facebook.com/groups/2425901487658992/)
 
+## This Repo is Created and Maintained by
+
+- [Navaneeth Malingan](https://www.linkedin.com/in/nivu/)
+
 ## Why Data Science and how to get started?
 
 - [🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw)
@@ -160,6 +164,18 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)▶️
 - [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)📙
 
+## Boosting Machine Learning
+
+- [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)▶️
+- [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)▶️
+- [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)▶️
+- [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs)▶️
+- [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs)▶️
+- [Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw)▶️
+- [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)▶️
+- [XGBoost Part 2: XGBoost Trees For Classification](https://www.youtube.com/watch?v=8b1JEDvenQU)▶️
+- [Ensemble methods Sci-kit learn](https://scikit-learn.org/stable/modules/ensemble.html)
+
 ## SVM
 
 - [Support Vector Machines (SVMs): A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=Lpr__X8zuE8)▶️
@@ -178,34 +194,22 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)▶️
 - [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)▶️
 
+## K-Nearest Neighbors
+
+- [KNN from Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)📙
+- [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)📙
+
 ## K-Means
 
 - [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)▶️
 - [Machine Learning Tutorial Python - 13: K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)▶️
 - [K Means Clustering Algorithm - K Means Example in Python - Machine Learning Algorithms - Edureka](https://www.youtube.com/watch?v=1XqG0kaJVHY)▶️
 
-## K-Nearest Neighbors
-
-- [KNN from Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)📙
-- [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)📙
-
 ## Principal Component Analysis (PCA)
 
 - [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)▶️
 - [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)▶️
 - [Principal Component Analysis (PCA) by Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)▶️
-
-## Boosting Machine Learning
-
-- [Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka](https://www.youtube.com/watch?v=kho6oANGu_A)▶️
-- [XGBoost Part1: XGBoost Trees for Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E)▶️
-- [XGBoost Part 2: XGBoost Trees For Classification](https://www.youtube.com/watch?v=8b1JEDvenQU)▶️
-- [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)▶️
-- [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc)▶️
-- [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs)▶️
-- [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs)▶️
-- [Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw)▶️
-- [Ensemble methods Sci-kit learn](https://scikit-learn.org/stable/modules/ensemble.html)
 
 ## Probabilistic Graphical Models
 
@@ -245,7 +249,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - https://datascience.stackexchange.com/questions/18802/does-mlp-always-find-local-minimum
 - https://www.coursera.org/learn/deep-neural-network/lecture/RFANA/the-problem-of-local-optima
 
-## Sci-Kit
+## Scikit-learn
 
 - [An introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)📙
 - [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
@@ -274,12 +278,14 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ## NN
 
-- [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) _A simple explanation of how they work and how to implement one from scratch in Python._
-- [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-- [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
-- [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk)
-- [Neural Networks Demystified by Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+- [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)▶️
+- [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)📙 _A simple explanation of how they work and how to implement one from scratch in Python._
+- [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)📙
+- [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)📙
+- [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk)▶️
+- [Neural Networks Demystified by Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)▶️
   - [Supporting code for short YouTube series Neural Networks Demystified.](https://github.com/stephencwelch/Neural-Networks-Demystified)
+- [Neural networks Series by 3Blue1Brows](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)▶️
 
 ## Computer Vision
 
@@ -469,10 +475,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Jeff Heaton](https://www.youtube.com/user/HeatonResearch)
 - [Abhishek Thakur](https://www.youtube.com/user/abhisheksvnit)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
-
-## This Repo is Maintained by
-
-- [Navaneeth Malingan](https://www.linkedin.com/in/nivu/)
 
 ## Reference
 
