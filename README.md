@@ -16,6 +16,7 @@
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Alexander Amini](https://www.youtube.com/user/Zan560)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Christopher Olah](https://colah.github.io/)
 
 ## Communities to Follow
 
@@ -332,6 +333,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [NLP and The Reformer](https://www.youtube.com/watch?v=rNG_hpSyZcE)
+- [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 
 ### RNN
 
@@ -339,34 +341,30 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) _Baby steps to your neural network's first memories._
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [An Introduction to Recurrent Neural Networks for Beginners](https://victorzhou.com/blog/intro-to-rnns/) _A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python._
-- [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
-- [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
-- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Attention and Augmented Recurrent Neural Networks by Distill](https://distill.pub/2016/augmented-rnns/)
 - [Visualizing memorization in RNNs by Distill](https://distill.pub/2019/memorization-in-rnns/) _Inspecting gradient magnitudes in context can be a powerful tool to see when recurrent units use short-term or long-term contextual understanding._
 - [Deep Learning for NLP: ANNs, RNNs and LSTMs explained!](https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html)
 
 ### LSTM
 
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-
-### GPT-2
-
-- [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
-- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
-
 ### BERT
 
 - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 - [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
 - [BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc](https://github.com/dmis-lab/biobert)
+
+### GPT
+
+- [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 
 ## Reinforcement Learning
 
