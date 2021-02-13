@@ -351,12 +351,20 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
+
+### Transformers and Self Attention
+#### Visual Guide to Transformer Neural Networks (Highly Recommended)
+
+- [Part 1 -  Position Embeddings](https://www.youtube.com/watch?v=dichIcUZfOw&ab_channel=Hedu-MathofIntelligence)
+- [Part 2 -  Multi-Head & Self Attention](https://www.youtube.com/watch?v=mMa2PmYJlCo&ab_channel=Hedu-MathofIntelligence)
+- [Part 3 -  Decoder’s Masked Attention](https://www.youtube.com/watch?v=gJ9kaJsE78k&ab_channel=Hedu-MathofIntelligence)
+- [NLP Transformers Attention Playlist](https://www.youtube.com/playlist?list=PLxI06TjqRkofnRuvD-Ks0Qef5g73yrMQ7)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 ### BERT
 
 - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 - [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
 - [BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc](https://github.com/dmis-lab/biobert)
