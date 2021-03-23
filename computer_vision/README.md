@@ -32,6 +32,10 @@ Single Shot MultiBox Detector. A neural network combining object detection and c
 
 One of the original neural networks to only take a single look at an input image, whereas earlier networks ran a classifier multiple times across a single image at different locations and scales.
 
+- [YOLOv4 in the CLOUD: Build and Train Custom Object Detector (FREE GPU)](https://www.youtube.com/watch?v=mmj3nxGT2YQ&ab_channel=TheAIGuy)
+- [YOLOv4-Cloud-Tutorial - Code](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
+- [The AI Guy](https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q/videos)
+
 ### [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 
 A network, expanding on [R-CNN](https://arxiv.org/pdf/1311.2524.pdf) and [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), that integrates advances made in the earlier models by adding a Region Proposal Network on top of the Fast R-CNN model for an integrated object detection model.
