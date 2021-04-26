@@ -311,9 +311,36 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ### Object Detection
 
-- [YOLO](https://pjreddie.com/darknet/yolo/)
-- [YOLO-Object-Counting-API](https://github.com/tugot17/YOLO-Object-Counting-API)
+- [SIFT | Scale Invariant Feature Transform](https://www.youtube.com/watch?v=ttD3pvM6pEI&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=19&ab_channel=Cogneethi)
+- [Hog Intuition | Histogram of Oriented Gradients](https://www.youtube.com/watch?v=Qwc3a8cOKRU&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=20&ab_channel=Cogneethi)
+- [NMS | Non Max Suppression](https://www.youtube.com/watch?v=07jFApuhh4I&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=25&ab_channel=Cogneethi)
+- [Object Localization | Bounding Box Regression](https://www.youtube.com/watch?v=LZRfHkTNQqo&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=49&ab_channel=Cogneethi)
+- [Object Detection](https://www.youtube.com/watch?v=77XJeT-Z-uE&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=50&t=3s&ab_channel=Cogneethi)
+- [RCNN](https://www.youtube.com/watch?v=dtIZVJAcLxE&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=60&t=1s&ab_channel=Cogneethi)
+- [Spatial Pyramid Matching | SPM](https://www.youtube.com/watch?v=6MwuK2wHlOg&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=70&t=92s&ab_channel=Cogneethi)
+- [SPPNet Object Detection](https://www.youtube.com/watch?v=M3lx8GHrEsg&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=72&ab_channel=Cogneethi)
+- [Fast RCNN Network](https://www.youtube.com/watch?v=ZBPQ7Hd46m4&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=77&t=14s&ab_channel=Cogneethi)
+- [Faster RCNN](https://www.youtube.com/watch?v=po59qI5LJGU&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=80&ab_channel=Cogneethi)
 
+- **[Evolution of Object Detection Networks - Entire Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)**
+
+- [Yolo v4 Object Detection - How it Works & Why it's So Amazing!](https://www.youtube.com/watch?v=_JzOFWx1vZg&t=1s&ab_channel=AugmentedStartups)
+
+- Frameworks and Libraries
+  - [Detectron2 by Facebook AI](https://github.com/facebookresearch/detectron2)
+  - [MMDetection](https://github.com/open-mmlab/mmdetection)
+  - [MediaPipe](https://github.com/google/mediapipe)
+  - [YOLO](https://pjreddie.com/darknet/yolo/)
+  - [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+  - [Computer Vision Recipes](https://github.com/microsoft/computervision-recipes)
+
+- Labeling Tools
+  - [LabelImg](https://github.com/tzutalin/labelImg)
+  - [Roboflow](https://roboflow.com/)
+  - [Label Studio](https://labelstud.io/)
+
+- Code samples
+  - [YOLO-Object-Counting-API](https://github.com/tugot17/YOLO-Object-Counting-API)
 ### Image Segmentation
 
 - [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
