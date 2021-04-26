@@ -431,6 +431,9 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [MlFlow - An open source platform for the machine learning lifecycle](https://mlflow.org/)
 - [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 
+## MlOps
+
+- [MLOps Primer - 2021 A collection of resources to learn about MLOps.](https://elvissaravia.substack.com/p/mlops-primer-2021)
 ## Code
 
 - [codebasics/py](https://github.com/codebasics/py)
@@ -439,6 +442,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 ## CheatSheets
 
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+- [MLOps Tooling Landscape v2 (+84 new tools) - Dec '20](https://huyenchip.com/2020/12/30/mlops-v2.html)
 
 ## GPU
 
