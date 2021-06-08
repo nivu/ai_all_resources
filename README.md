@@ -468,6 +468,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ## CheatSheets
 
+- [CHRIS ALBON Cheat Sheets and Flash Cards](https://chrisalbon.com/)
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [MLOps Tooling Landscape v2 (+84 new tools) - Dec '20](https://huyenchip.com/2020/12/30/mlops-v2.html)
 
