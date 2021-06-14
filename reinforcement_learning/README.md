@@ -1,5 +1,7 @@
 ### Reinforcement Learning
 
+- [Reinforcement Learning - David Silver | Deepmind | 2020](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2S3rHUCqz6W1ZKybVICeSP)
+
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 
 - [LECTURES: Introduction to Reinforcement Learning - David Silver](https://www.davidsilver.uk/teaching/)
