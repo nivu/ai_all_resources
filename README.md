@@ -87,6 +87,7 @@
 - [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU)
 - [Glossary: Statistics](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/wiki/Glossary:-Statistics)
 - [Glossary: Machine Learning](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/wiki/Glossary:-Machine-Learning)
+- [Looking at R-Squared](https://medium.com/@erika.dauria/looking-at-r-squared-721252709098)
 
 ## Math
 
