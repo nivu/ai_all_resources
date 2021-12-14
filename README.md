@@ -1,6 +1,6 @@
 # An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning
 
-## _Knowledge Not Shared is wasted. - Clan Jacobs_
+## _Knowledge Not Shared is wasted - Clan Jacobs_
 
 ### This collection is a compilation of Excellent ML and DL Tutorials created by the people below
 
