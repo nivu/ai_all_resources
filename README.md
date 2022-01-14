@@ -348,6 +348,9 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ### GANs
 
+- [A Friendly Introduction to Generative Adversarial Networks (GANs) by Luis Serrano](https://www.youtube.com/watch?v=8L11aMN5KY8&ab_channel=Serrano.Academy)
+- [Generative Adversarial Networks (GANs) by Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu)
+- [Building our first simple GAN](https://www.youtube.com/watch?v=OljTVUVzPpM&ab_channel=AladdinPersson)
 - [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
