@@ -392,6 +392,13 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [NLP Transformers Attention Playlist](https://www.youtube.com/playlist?list=PLxI06TjqRkofnRuvD-Ks0Qef5g73yrMQ7)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Transformers Paper and Code](https://nn.labml.ai/transformers/index.html)
+- [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [Transformers Notes](https://www.notion.so/Transformers-969f4b27c48147778c1e2dbda0c83ce0)
+- [Transformers, Explained: Understand the Model Behind GPT-3, BERT, and T5](https://daleonai.com/transformers-explained)
+- [A comprehensive overview of Transformer variants.](https://arxiv.org/abs/2106.04554)
+- [How to become an NLP & Transformer Model Guru](https://www.linkedin.com/pulse/how-become-transformer-model-guru-denis-rothman/)
+- [[MASTERCLASS] Transformers | Attention Models](https://youtu.be/N7u13zO8DPw)
 ### BERT
 
 - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
