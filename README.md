@@ -20,8 +20,7 @@
 
 ## Communities to Follow
 
-- [Coimbatore School of AI](http://soaicbe.org/) *Join here*🔗⬇️
-  - [Meetup : Coimbatore School of AI](https://www.meetup.com/Coimbatore-School-of-AI/)
+- [AI Coimbatore](https://www.meetup.com/AICoimbatore/) *Join here*🔗⬇️
   - [Telegram : For Daily Updates](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
   - [Facebook : Coimbatore School of AI](https://www.facebook.com/groups/440187506472896/)
 - [TensorFlow User Group Coimbatore](https://www.tensorflow.org/community/groups)
