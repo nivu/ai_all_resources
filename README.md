@@ -138,6 +138,11 @@
 - [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)▶️
 - [deeplizard: Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)▶️
 
+## ML, DL Visual Explainers
+
+- [MLU-EXPLAIN](https://mlu-explain.github.io/)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
 _Note: Below you can find the best lectures for popular Machine Learning Algorithms_
 
 ## Linear Regression
