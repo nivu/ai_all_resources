@@ -105,6 +105,7 @@
 
 - [Python Programming Tutorials by Socratica](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)▶️
 - [Python Tutorial by w3schools](https://www.w3schools.com/python/)📙
+- [Learning Python Programming](https://www.scaler.com/topics/python/)📙
 
 ## Numpy
 
