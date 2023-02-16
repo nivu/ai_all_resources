@@ -347,6 +347,12 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 - Code samples
   - [YOLO-Object-Counting-API](https://github.com/tugot17/YOLO-Object-Counting-API)
+
+#### 3D Object Detection
+
+- [Announcing the Objectron Dataset | Google AI Blog](https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html)
+- [MediaPipe Objectron | Objectron (3D Object Detection)](https://google.github.io/mediapipe/solutions/objectron.html)
+
 ### Image Segmentation
 
 - [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
