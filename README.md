@@ -29,7 +29,16 @@
 
 ## This Repo is Created and Maintained by
 
-- [Navaneeth Malingan](https://www.linkedin.com/in/nivu/)
+_Navaneeth Malingan_
+
+<a target="_blank" href="https://www.instagram.com/nivu.me/">
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
+</a>
+
+<a target="_blank" href="https://www.linkedin.com/in/nivu/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
+</a>
+<br/>
 
 ## Why Data Science and how to get started?
 
