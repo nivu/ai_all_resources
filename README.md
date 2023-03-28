@@ -278,6 +278,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
   - [Class Lectures (YouTube) - MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Lab](https://github.com/aamini/introtodeeplearning_labs)
 - [MIT 6.S191 Introduction to Deep Learning (2020)](http://introtodeeplearning.com/)
+- [MIT 6.S191 Introduction to Deep Learning (2023) (YouTube)](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 - [MIT Deep Learning by Lex Fridman](https://deeplearning.mit.edu/)
   - [Deep Learning Lectures (YouTube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
