@@ -52,6 +52,7 @@ _Navaneeth Malingan_
 
 - [Luis Serrano: A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 - [StatQuest: A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
+- [Machine Learning For Everyone](https://vas3k.com/blog/machine_learning/) _Summarize's Machine Learning algorithms and their applications in simple words with real-world examples._
 
 ## Anyone can do Machine Learning
 
