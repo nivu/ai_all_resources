@@ -235,7 +235,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 ### The Best
 
 - [Linear Regression using Gradient Descent](https://nivu.me/posts/linear-regression-using-gradient-descent)📙
-- [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)📙
 - [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)▶️
 - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)▶️
 - [How Optimization Works](https://end-to-end-machine-learning.teachable.com/p/building-blocks-how-optimization-works) _A short series on the fundamentals of optimization for machine learning_
