@@ -5,7 +5,7 @@
 ### This collection is a compilation of Excellent ML and DL Tutorials created by the people below
 
 - [Andrej Karpathy blog](http://karpathy.github.io/)
-- [Brandon Roher](https://brohrer.github.io/blog.html)
+- [Brandon Roher](https://e2eml.school/blog.html)
 - [Andrew Trask](https://iamtrask.github.io/)
 - [Jay Alammar](https://jalammar.github.io/)
 - [Sebastian Ruder](https://ruder.io/)
