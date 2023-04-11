@@ -314,7 +314,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
-
 - [Tensorflow Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
 - [Convolutional Networks Book](http://www.deeplearningbook.org/contents/convnets.html)
 - [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
@@ -399,7 +398,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
-- [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
+
 
 ### Transformers and Self Attention
 #### Visual Guide to Transformer Neural Networks (Highly Recommended)
