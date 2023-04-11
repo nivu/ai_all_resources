@@ -5,7 +5,7 @@
 ### This collection is a compilation of Excellent ML and DL Tutorials created by the people below
 
 - [Andrej Karpathy blog](http://karpathy.github.io/)
-- [Brandon Roher](https://brohrer.github.io/blog.html)
+- [Brandon Roher](https://e2eml.school/blog.html)
 - [Andrew Trask](https://iamtrask.github.io/)
 - [Jay Alammar](https://jalammar.github.io/)
 - [Sebastian Ruder](https://ruder.io/)
@@ -87,7 +87,6 @@ _Navaneeth Malingan_
 - [Sensitivity and Specivicity](https://www.youtube.com/watch?v=sunUKFXMHGk)
 - [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM)
-- [StatQuest: P Values, clearly explained](https://www.youtube.com/watch?v=5Z9OIYA8He8)
 - [Regularization Part 1: Ridge Regression](https://www.youtube.com/watch?v=Q81RR3yKn30)
 - [Regularization Part 2: Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs)
 - [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
@@ -137,7 +136,6 @@ _Navaneeth Malingan_
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [Data analysis in Python with pandas by Data School](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)▶️
 - [Best practices with pandas by Data School](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)▶️
-- [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 
 ## Machine Learning YouTube Playlists
@@ -160,7 +158,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 - [Linear Regression: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c)▶️
 - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4)▶️
-- [All Types of Regression](https://medium.com/greyatom/logistic-regression-89e496433063)📙
 
 ## Logistic Regression
 
@@ -238,7 +235,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 ### The Best
 
 - [Linear Regression using Gradient Descent](https://nivu.me/posts/linear-regression-using-gradient-descent)📙
-- [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)📙
 - [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)▶️
 - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)▶️
 - [How Optimization Works](https://end-to-end-machine-learning.teachable.com/p/building-blocks-how-optimization-works) _A short series on the fundamentals of optimization for machine learning_
@@ -318,7 +314,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
-- [Convolutional Neural Networks for Beginners](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
 - [Tensorflow Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
 - [Convolutional Networks Book](http://www.deeplearningbook.org/contents/convnets.html)
 - [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
@@ -403,7 +398,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [LSTM implementation explained](https://apaszke.github.io/lstm-explained.html)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
-- [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
+
 
 ### Transformers and Self Attention
 #### Visual Guide to Transformer Neural Networks (Highly Recommended)
@@ -427,12 +422,10 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 - [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
-- [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
 - [BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc](https://github.com/dmis-lab/biobert)
 
 ### GPT
 
-- [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 
 ## Reinforcement Learning
@@ -503,12 +496,8 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 ## CheatSheets
 
 - [CHRIS ALBON Cheat Sheets and Flash Cards](https://chrisalbon.com/)
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [MLOps Tooling Landscape v2 (+84 new tools) - Dec '20](https://huyenchip.com/2020/12/30/mlops-v2.html)
 
-## GPU
-
-- [Why GPUs](https://course.fast.ai/gpu_tutorial.html)
 
 ## Edge ML Kits
 
@@ -519,7 +508,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 ## Data Science Competitions
 
 - [Kaggle](https://www.kaggle.com/)
-- [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/)
 
 ## Important Youtube🎬 Channels in the field of AI/ML/RL/DS
 
@@ -543,7 +531,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 - [edureka!](https://www.youtube.com/user/edurekaIN)
 - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
-- [The Artificial Intelligence Channe](https://www.youtube.com/user/Maaaarth)
+- [The Artificial Intelligence Channel](https://www.youtube.com/user/Maaaarth)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [CloudxLab](https://www.youtube.com/channel/UC8mJ6DL1Q32UWyJUceoO8Jw)
 - [Alexander Amini](https://www.youtube.com/user/Zan560)
@@ -566,6 +554,5 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - https://medium.com/greyatom
 - https://greyatom.com/glabs
 - [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
-- [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
 - https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression
 - https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning
