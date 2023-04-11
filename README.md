@@ -158,7 +158,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 - [Linear Regression: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c)▶️
 - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4)▶️
-- [All Types of Regression](https://medium.com/greyatom/logistic-regression-89e496433063)📙
 
 ## Logistic Regression
 
