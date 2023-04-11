@@ -323,6 +323,10 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ### Object Detection
 
+#### [Evolution Of Object Detection Networks by Cogneethi](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
+_Deep-dive tutorial on Object Detection. Intuition lectures on topics ranging from Classical CV techniques like HOG, SIFT to Convolutional Neural Network based techniques like Overfeat, Faster RCNN etc. You will learn how the ideas have evolved from some of the earliest papers to current ones. 
+And hence the name Evolution of Object Detection Networks._
+
 - [SIFT | Scale Invariant Feature Transform](https://www.youtube.com/watch?v=ttD3pvM6pEI&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=19&ab_channel=Cogneethi)
 - [Hog Intuition | Histogram of Oriented Gradients](https://www.youtube.com/watch?v=Qwc3a8cOKRU&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=20&ab_channel=Cogneethi)
 - [NMS | Non Max Suppression](https://www.youtube.com/watch?v=07jFApuhh4I&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=25&ab_channel=Cogneethi)
@@ -333,11 +337,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [SPPNet Object Detection](https://www.youtube.com/watch?v=M3lx8GHrEsg&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=72&ab_channel=Cogneethi)
 - [Fast RCNN Network](https://www.youtube.com/watch?v=ZBPQ7Hd46m4&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=77&t=14s&ab_channel=Cogneethi)
 - [Faster RCNN](https://www.youtube.com/watch?v=po59qI5LJGU&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=80&ab_channel=Cogneethi)
-
-- **[Evolution of Object Detection Networks - Entire Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)**
-
 - [Yolo v4 Object Detection - How it Works & Why it's So Amazing!](https://www.youtube.com/watch?v=_JzOFWx1vZg&t=1s&ab_channel=AugmentedStartups)
-
 - Frameworks and Libraries
   - [Detectron2 by Facebook AI](https://github.com/facebookresearch/detectron2)
   - [MMDetection](https://github.com/open-mmlab/mmdetection)
@@ -345,12 +345,10 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
   - [YOLO](https://pjreddie.com/darknet/yolo/)
   - [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
   - [Computer Vision Recipes](https://github.com/microsoft/computervision-recipes)
-
 - Labeling Tools
   - [LabelImg](https://github.com/tzutalin/labelImg)
   - [Roboflow](https://roboflow.com/)
   - [Label Studio](https://labelstud.io/)
-
 - Code samples
   - [YOLO-Object-Counting-API](https://github.com/tugot17/YOLO-Object-Counting-API)
 
