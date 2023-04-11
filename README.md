@@ -508,7 +508,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 ## Data Science Competitions
 
 - [Kaggle](https://www.kaggle.com/)
-- [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/)
 
 ## Important Youtube🎬 Channels in the field of AI/ML/RL/DS
 
