@@ -426,7 +426,6 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 ### GPT
 
-- [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 
 ## Reinforcement Learning
