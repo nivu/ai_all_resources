@@ -531,7 +531,7 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 - [edureka!](https://www.youtube.com/user/edurekaIN)
 - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
-- [The Artificial Intelligence Channe](https://www.youtube.com/user/Maaaarth)
+- [The Artificial Intelligence Channel](https://www.youtube.com/user/Maaaarth)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [CloudxLab](https://www.youtube.com/channel/UC8mJ6DL1Q32UWyJUceoO8Jw)
 - [Alexander Amini](https://www.youtube.com/user/Zan560)
