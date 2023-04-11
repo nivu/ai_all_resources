@@ -87,7 +87,6 @@ _Navaneeth Malingan_
 - [Sensitivity and Specivicity](https://www.youtube.com/watch?v=sunUKFXMHGk)
 - [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM)
-- [StatQuest: P Values, clearly explained](https://www.youtube.com/watch?v=5Z9OIYA8He8)
 - [Regularization Part 1: Ridge Regression](https://www.youtube.com/watch?v=Q81RR3yKn30)
 - [Regularization Part 2: Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs)
 - [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
