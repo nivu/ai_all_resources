@@ -520,8 +520,16 @@ And hence the name Evolution of Object Detection Networks._
 
 ## CheatSheets
 
+- [Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/)
+- [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+- [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+- [Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+- [Mathematical tools](https://stanford.edu/~shervine/teaching/cme-102/linear-algebra)
+- [Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/cheatsheet-first-ode)
 - [CHRIS ALBON Cheat Sheets and Flash Cards](https://chrisalbon.com/)
 - [MLOps Tooling Landscape v2 (+84 new tools) - Dec '20](https://huyenchip.com/2020/12/30/mlops-v2.html)
+- [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+- [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/study-guide/machine-learning-with-r/)
 
 
 ## Edge ML Kits
