@@ -17,7 +17,6 @@
 - [Alexander Amini](https://www.youtube.com/user/Zan560)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 - [Christopher Olah](https://colah.github.io/)
-
 ## Communities to Follow
 
 - [AI Coimbatore](https://www.meetup.com/AICoimbatore/) *Join here*🔗⬇️
@@ -69,6 +68,34 @@ _Navaneeth Malingan_
 - [Introduction to Machine Learning for Coders!](http://course18.fast.ai/ml)
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 - [FastAI](https://www.fast.ai/)
+
+## Courses from Top Universities
+  ### Stanford University
+  - [CS221 - Artificial Intelligence: Principles and Techniques by Percy Liang and Dorsa Sadigh](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+  - [CS229 - Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+  - [CS230 - Deep Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+  - [CS231n - Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karpathy](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  - [CS224n - Natural Language Processing with Deep Learning by Christopher Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+  - [CS234 - Reinforcement Learning by Emma Brunskill](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+  - [ CS330 - Deep Multi-task and Meta Learning by Chelsea Finn](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+  - [CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
+  ### Carnegie Mellon University
+  - [CS/LTI 11-711: Advanced NLP by Graham Neubig](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
+  - [CS/LTI 11-747: Neural Networks for NLP by Graham Neubig](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+  - [CS/LTI 11-737: Multilingual NLP by Graham Neubig](https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
+  - [CS/LTI 11-777: Multimodal Machine Learning by Louis-Philippe Morency](https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos)
+  - [CS/LTI 11-785: Introduction to Deep Learning by Bhiksha Raj and Rita Singh](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
+  - [CS/LTI Low Resource NLP Bootcamp 2020 by Graham Neubig](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
+
+  ### Massachusetts Institute of Technology
+  - [6.S191 - Introduction to Deep Learning by Alexander Amini and Ava Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+  - [6.S094 - Deep Learning by Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+  - [6.S192 - Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
+
+  ### University College London
+  - [COMP M050 Reinforcement Learning by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
 
 ## YouTube ML Playlists
 
