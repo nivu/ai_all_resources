@@ -47,26 +47,6 @@ _Navaneeth Malingan_
 - [PyImageSearch](https://www.pyimagesearch.com/start-here/)
 - [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
 
-## Data Engineering
-
-
-### Batch Proceesing
-- [Understanding Data Engineering by Datacamp](https://app.datacamp.com/learn/courses/understanding-data-engineering)
-- [Introduction to Data Engineering by Datacamp](https://app.datacamp.com/learn/courses/introduction-to-data-engineering)
-- [Apache Spark Tutorial (used for Large Scale Data Processing using SQL commands)](https://spark.apache.org/docs/latest/sql-getting-started.html)
-- [Test your knowledge using ProjectPro](https://www.projectpro.io/article/big-data-interview-questions-/773)
-
-
-### Stream Processing
-- [Introduction to Apache Kafka Streams](https://kafka.apache.org/documentation/streams/)
-- [Apache Flink Documentation](https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/try-flink/datastream/)
-- [Stream Processing Quiz](https://chauff.github.io/documents/bdp-quiz/streaming.html)
-
-
-### Data Pipelines and Integration
-- [Building Data Engineering Pipelines in Python](https://app.datacamp.com/learn/courses/building-data-engineering-pipelines-in-python)
-- ["What is Data Integration?" by talend](https://www.talend.com/resources/what-is-data-integration/)
-- [Data Cleaning Challenge: Handling missing values](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values/notebook)
 
 ## Intro to ML
 
