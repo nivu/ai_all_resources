@@ -47,6 +47,7 @@ _Navaneeth Malingan_
 - [PyImageSearch](https://www.pyimagesearch.com/start-here/)
 - [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
 
+
 ## Intro to ML
 
 - [Luis Serrano: A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
