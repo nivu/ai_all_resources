@@ -186,13 +186,15 @@ _Note: Below you can find the best lectures for popular Machine Learning Algorit
 
 - [Linear Regression: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c)▶️
 - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4)▶️
+- [Regression Line Fitting Playground](https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression_en.html)
+- [Regression Curve Fitting Playground](https://phet.colorado.edu/sims/html/curve-fitting/latest/curve-fitting_all.html)
 
 ## Logistic Regression
 
 - [Linear Regression vs Logistic Regression | Data Science Training | Edureka](https://www.youtube.com/watch?v=OCwZyYH14uw)▶️
 - [Logistic Regression and the Perceptron Algorithm: A friendly introduction by Luis Serrano](https://www.youtube.com/watch?v=jbluHIgBmBo)▶️
 
-## Decission Tree
+## Decision Tree
 
 - [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)▶️
 - [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA)▶️
