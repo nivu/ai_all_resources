@@ -166,3 +166,9 @@
 Courses
 
 1. https://www.coursera.org/professional-certificates/ibm-data-science
+2. https://www.coursera.org/specializations/machine-learning-introduction
+3. https://www.coursera.org/specializations/deep-learning
+4. https://www.coursera.org/specializations/natural-language-processing
+5. https://www.coursera.org/professional-certificates/tensorflow-in-practice
+6. https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
+7. For LLM cover all short courses by dl.ai - https://www.deeplearning.ai/short-courses/
