@@ -45,36 +45,42 @@
 #### **Sub-module 3.1: Fundamentals of ML**
 - Supervised vs. unsupervised learning
 - Overfitting and underfitting
+- Bias Variance Tradeoff
 - Train-test split
 - Cross-validation
 
 #### **Sub-module 3.2: Regression Algorithms**
-- Linear regression
-- Polynomial regression
-- Ridge and Lasso regression
+- Linear regression (Line fitting, Residual, Gradient Descent)
+- Polynomial regression (Polynomial Order)
+- Ridge, Lasso and ElasticNet regression (What effed does each penalty term have on the training data)
 
 #### **Sub-module 3.3: Classification Algorithms**
-- Logistic regression
-- Decision Trees
+- Logistic regression (OVA, OVR)
+- Decision Trees (Gini, Entrophy)
 - Random Forests
-- Support Vector Machines (SVM)
+- Support Vector Machines (SVM) (Max-margin Classifier, Kernel trick [RBF, Linear, Sigmoid])
 - k-Nearest Neighbors (k-NN)
 
-#### **Sub-module 3.4: Unsupervised Algorithms**
+#### **Sub-module 3.4: Ensemble Methods**
+- Bagging
+- Boosting (AdaBoost, GradientBoost, XGBoost, CatBoost, LightGBM)
+- Stacking
+
+#### **Sub-module 3.5: Unsupervised Algorithms**
 - k-means clustering
 - Hierarchical clustering
 - Principal Component Analysis (PCA)
-
-#### **Sub-module 3.5: Ensemble Methods**
-- Bagging
-- Boosting
-- Stacking
 
 #### **Sub-module 3.6: Model Evaluation**
 - Confusion matrix
 - ROC-AUC
 - Precision-Recall
 - F1 Score
+
+#### **Sub-module 3.7: Model Finetuning**
+- Grid Search
+- Optional
+- Cross-validation
 
 ---
 
@@ -88,10 +94,14 @@
 
 #### **Sub-module 4.2: Advanced Neural Networks**
 - Convolutional Neural Networks (CNNs)
+    - LeNet, AlexNet, VGGNet, InceptionNet, ResNet, EfficientNet
+    - Transfer Learning
 - Recurrent Neural Networks (RNNs)
+    - Vanishing and Exploding Gradient
 - Long Short-Term Memory networks (LSTMs)
-- Autoencoders
-- Generative Adversarial Networks (GANs)
+- Autoencoders (VAE)
+- Generative Adversarial Networks (GANs) (DCGAN, PixGAN, CycleGAN)
+- Transformers
 
 #### **Sub-module 4.3: Frameworks and Tools**
 - TensorFlow
@@ -105,20 +115,54 @@
 
 ---
 
-### **Module 5: Special Topics**
+### **Module 5: Gen AI**
 
-#### **Sub-module 5.1: Natural Language Processing (NLP)**
+#### **Sub-module 5.1: Transformers)**
+- Sequence to Sequence Models
+- Attention Mechanism
+- Self Attention
+- Transformers, Positional Encoding 
+
+#### **Sub-module 6.2: LLM Architectures**
+- Encoder Only Architecture
+  - BERT (Bidirectional Encoder Representations from Transformers)
+  - GPT (Generative Pre-trained Transformer) - often categorized as Decoder Only but can be adapted for encoder-only tasks
+  DistilBERT (a distilled version of BERT that is lighter and faster)
+  ALBERT (A Lite BERT for self-supervised learning of language representations)
+- Decoder Only Architecture
+  - GPT (Generative Pre-trained Transformer)
+- Encoder-Decoder Architecture
+  - Transformer (original model comprising both encoder and decoder)
+  - BART (Bidirectional and Auto-Regressive Transformers)
+  - T5 (Text-to-Text Transfer Transformer)
+
+#### **Sub-module 6.3: Prompt Engineering**
+- Zero-shot, Single Shot, Few Shot
+- RAG
+- OpenAI APIs
+- Using self-hosted LLMs, Huggingface
+
+---
+
+### **Module 6: Special Topics**
+
+#### **Sub-module 6.1: Natural Language Processing (NLP)**
 - Text preprocessing (tokenization, stemming, lemmatization)
 - Word embeddings (Word2Vec, GloVe)
 - Sentiment analysis
 - Named Entity Recognition (NER)
 
-#### **Sub-module 5.2: Computer Vision**
+#### **Sub-module 6.2: Computer Vision**
 - Image processing basics
 - Object detection
 - Image classification
 
-#### **Sub-module 5.3: Time Series Analysis**
+#### **Sub-module 6.3: Time Series Analysis**
 - ARIMA models
 - Seasonal decomposition
 - Forecasting
+
+
+Courses
+
+1. https://www.coursera.org/professional-certificates/ibm-data-science
