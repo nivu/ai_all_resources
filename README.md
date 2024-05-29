@@ -46,6 +46,8 @@ _Navaneeth Malingan_
 - [My Self-Created Artificial Intelligence Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e)
 - [PyImageSearch](https://www.pyimagesearch.com/start-here/)
 - [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
+- [Is Data Science a Good Career: A Comprehensive Guide](https://www.scaler.com/blog/is-data-science-a-good-career/)
+
 
 
 ## Intro to ML
