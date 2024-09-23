@@ -1,7 +1,64 @@
 ## Generative AI
 This is a comprehensive guide to understanding and navigating the realm of Generative AI. Generative AI has gained significant traction in recent years due to its wide range of applications across various domains. From generating realistic images to aiding in natural language processing tasks, Generative AI has revolutionized how we interact with and create content.
-### Modue 1 - Introduction to Generative AI
 
+### LLMs From Scratch Series
+
+1. Andrej Karpathy - [10 Vidoes](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=EuGApF9EXdu1_an5)
+    - The spelled-out intro to neural networks and backpropagation: building micrograd
+    - The spelled-out intro to language modeling: building makemore
+    - Building makemore Part 2: MLP
+    - Building makemore Part 3: Activations & Gradients, BatchNorm
+    - Building makemore Part 4: Becoming a Backprop Ninja
+    - Building makemore Part 5: Building a WaveNet
+    - Let's build GPT: from scratch, in code, spelled out.
+    - State of GPT
+    - Let's build the GPT Tokenizer
+    - Let's reproduce GPT-2 (124M)
+
+2. StatQuest with Josh Starmer - [15 Videos](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&si=DfkDMWz58VJgBrsD)
+    - Recurrent Neural Networks (RNNs), Clearly Explained!!!
+    - Long Short-Term Memory (LSTM), Clearly Explained
+    - Word Embedding and Word2Vec, Clearly Explained!!!
+    - Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!
+    - Attention for Neural Networks, Clearly Explained!!!
+    - Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!
+    - Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+    - Tensors for Neural Networks, Clearly Explained!!!
+    - Essential Matrix Algebra for Neural Networks, Clearly Explained!!!
+    - The matrix math behind transformer neural networks, one step at a time!!!
+    - The StatQuest Introduction to PyTorch
+    - Introduction to Coding Neural Networks with PyTorch and Lightning
+    - Long Short-Term Memory with PyTorch + Lightning
+    - Word Embedding in PyTorch + Lightning
+    - Coding a ChatGPT Like Transformer From Scratch in PyTorch
+3. Sebastian Raschka - [5 Videos](https://youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&si=9oqXgWnDumkgA176)
+    - Developing an LLM: Building, Training, Finetuning 
+    - Understanding PyTorch Buffers
+    - Finetuning Open-Source LLMs
+    - Insights from Finetuning LLMs with Low-Rank Adaptation
+    - Building LLMs from the Ground Up: A 3-hour Coding Workshop
+4. CodeEmporium - [12 Videos](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=_kt_U8h_i2QtJyPj)
+    - Self Attention in Transformer Neural Networks (with Code!)
+    - Multi Head Attention in Transformer Neural Networks with Code!
+    - Positional Encoding in Transformer Neural Networks Explained
+    - Layer Normalization - EXPLAINED (in Transformer Neural Networks)
+    - Blowing up the Transformer Encoder!
+    - Transformer Encoder in 100 lines of code!
+    - Blowing up Transformer Decoder architecture
+    - Transformer Decoder coded from scratch
+    - Sentence Tokenization in Transformer Code from scratch!
+    - The complete guide to Transformer neural Networks!
+    - The complete Transformer Neural Network Code in 300 lines!
+    - Building a Translator with Transformers
+
+5. Jay Alammar
+    - Coming soon
+
+6. Luis Serrano
+    - Coming soon
+
+
+### Modue 1 - Introduction to Generative AI
 
 | Topic                                                     | References                                                                                                                                   |
 | --------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------------------- |
