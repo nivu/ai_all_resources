@@ -1,0 +1,28 @@
+- heading: "Why_Data_Science_and_how_to_get_started"
+  resources:
+    - title: "HOW TO GET STARTED WITH MACHINE LEARNING!"
+      link: "https://www.youtube.com/watch?v=I74ymkoNTnw"
+    - title: "How to Build a Meaningful Career in Data Science"
+      link: "https://www.datacamp.com/community/blog/how-to-build-a-meaningful-career-in-data-science"
+    - title: "My Self-Created Artificial Intelligence Masters Degree"
+      link: "https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e"
+    - title: "PyImageSearch"
+      link: "https://www.pyimagesearch.com/start-here/"
+    - title: "5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python"
+      link: "https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/"
+
+- heading: "Intro_to_ML"
+  resources:
+    - title: "A Friendly Introduction to Machine Learning"
+      link: "https://www.youtube.com/watch?v=IpGxLWOIZy4"
+    - title: "A Gentle Introduction to Machine Learning"
+      link: "https://www.youtube.com/watch?v=Gv9_4yMHFhI"
+    - title: "Machine Learning For Everyone"
+      link: "https://vas3k.com/blog/machine_learning/"
+      description: "Summarizes Machine Learning algorithms and their applications in simple words with real-world examples."
+
+- heading: "Anyone_can_do_Machine_Learning"
+  resources:
+    - title: "Teachable Machine"
+      link: "https://teachablemachine.withgoogle.com/"
+      description: "Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required."
