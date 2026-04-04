@@ -128,7 +128,9 @@ _Navaneeth Malingan_
 ## Math
 
 - [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _In this post I have compiled great e-resources (MOOC, YouTube Lectures, Books) for learning Mathematics for Machine Learning._
-- [Mathematics for Machine Learning - Book](https://mml-book.github.io/) One great book for all things math for machine learning. (free eBook) 
+- [Mathematics for Machine Learning - Book](https://mml-book.github.io/) One great book for all things math for machine learning. (free eBook)
+- [The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book] ](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/) Free book that simplifies AI mathematics using plain English explanations and practical Python implementations.
+
 - **I highly Recommend you to go through the following resources by 3Blue1Brown**
   - [Essence of Linear Algrbra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)▶️
   - [Essene of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)▶️
