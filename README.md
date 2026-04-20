@@ -46,6 +46,7 @@ _Navaneeth Malingan_
 - [My Self-Created Artificial Intelligence Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e)
 - [PyImageSearch](https://www.pyimagesearch.com/start-here/)
 - [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/)
+- [Data Science Roadmap: An In-Depth Guide](https://www.appliedaicourse.com/blog/data-science-roadmap/)
 
 
 ## Intro to ML
