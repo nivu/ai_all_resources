@@ -25,6 +25,7 @@
 - [TensorFlow User Group Coimbatore](https://www.tensorflow.org/community/groups)
   - [Meetup : TFUGCbe](https://www.meetup.com/TFUGCbe/)
   - [Facebook : TFUGCbe](https://www.facebook.com/groups/2425901487658992/)
+- [Build Club AI Community](https://www.buildclub.ai/)
 
 ## This Repo is Created and Maintained by
 
